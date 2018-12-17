@@ -1,63 +1,196 @@
-plata_name	seed_id
-Dextrin	cpd11594
-Maltose	cpd00179
-D-Trehalose	cpd00794
-D-Cellobiose	cpd03845
-Gentiobiose	cpd05158
-Sucrose	cpd00076
-Stachyose	cpd01133
-D-Raffinose	cpd00382
-a-D-Lactose	cpd00208
-D-Melibiose	cpd03198
-b-Methyl-D-Glucoside	cpd15584
-Salicin	cpd01030
-N-Acetyl-DGlucosamine	cpd00122
-N-Acetyl-b-D-Mannosamine	cpd00492
-N-Acetyl-DGalactosamine	cpd03019
-N-Acetyl-Neuraminic Acid	cpd00232
-a-D-Glucose	cpd19001
-D-Mannose	cpd00138
-D-Fructose	cpd00082
-D-Galactose	cpd00709
-D-Fucose	cpd00750
-L-Fucose	cpd00751
-L-Rhamnose	cpd00396
-Inosine	cpd00246
-D-Sorbitol	cpd00588
-D-Mannitol	cpd00314
-D-Arabitol	cpd01307
-M-Inositol	cpd00121
-Glycerol	cpd00100
-Glucose-6-Phosphate	cpd00079
-Fructose-6-Phosphate	cpd00072
-D-Aspartic Acid	cpd00320
-D-Serine	cpd00550
-Gelatin	NA
-L-Alanine	cpd00035
-L-Arginine	cpd00051
-L-Aspartic Acid	cpd00041
-L-Glutamic Acid	cpd00023
-L-Histidine	cpd00119
-L-PyroglutamicAcid	cpd01293
-L-Serine	cpd00054
-Pectin	NA
-D-GalacturonicAcid	cpd00280
-L-GalactonicAcid-g-Lactone	cpd00765
-D-Gluconic Acid	cpd00222
-D-GlucuronicAcid	cpd05264
-Mucic Acid	cpd00652
-Quinic Acid	cpd00248
-D-Saccharic Acid	cpd00609
-P-HydroxyPhenyl AceticAcid	cpd00489
-L-Lactic Acid	cpd00159
-Citric Acid	cpd00137
-a-Keto-GlutaricAcid	cpd00024
-D-Malic Acid	cpd00386
-L-Malic Acid	cpd00130
-g-Amino-ButyricAcid	cpd00281
-a-HydroxyButyric Acid	cpd03561
-a-Keto-ButyricAcid	cpd00094
-Acetoacetic Acid	cpd00142
-Propionic Acid	cpd00141
-Acetic Acid	cpd00029
-Formic Acid	cpd00047
+seed_id	name
+cpd00453	1,2-Propanediol
+cpd00162	2-Aminoethanol
+cpd00294	2-Deoxy Adenosine
+cpd01242	2-Deoxy-D-Ribose
+cpd00599	2-Hydroxy Benzoic Acid
+cpd01949	2,3-Butanediol
+cpd00551	2,3-Butanedione
+cpd00361	2,3-Butanone
+cpd24453	3-0-beta-D-Galacto-pyranosyl-D-Arabinose
+cpd00361	3-Hydroxy 2-Butanone
+cpd26351	3-Methyl Glucose
+cpd00136	4-Hydroxy Benzoic Acid
+cpd00781	5-Keto-D-Gluconic Acid
+cpd03737	a-Keto-Valeric Acid
+cpd15584	a-Methyl-D-Glucoside
+cpd03734	Acetamide
+cpd00029	Acetic Acid
+cpd00142	Acetoacetic Acid
+cpd00182	Adenosine
+cpd00366	Adonitol
+cpd24451	alpha-Cyclodextrin
+cpd00208	alpha-D-Lactose
+cpd03561	alpha-Hydroxy Butyric Acid
+cpd23862	alpha-Hydroxy Glutaric Acid-gamma-Lactone
+cpd15584	alpha-Methyl-D-Glucoside
+cpd24424	alpha-Methyl-D-Mannoside
+cpd01356	Amygdalin
+cpd03696	Arbutin
+cpd09394	beta-Cyclodextrin
+cpd01055	beta-D-Allose
+cpd02274	beta-Methyl-D-Galactoside
+cpd11603	beta-Methyl-D-Glucoside
+cpd24423	beta-Methyl-D-Glucuronic Acid
+cpd24425	beta-Methyl-D-Xyloside
+cpd23859	Bromo Succinic Acid
+cpd00211	Butyric Acid
+cpd01107	Capric Acid'
+cpd01113	Caproic Acid
+cpd11717	Chondroitin Sulfate C
+cpd01502	Citraconic Acid
+cpd00607	Citramalic Acid
+cpd00137	Citric Acid
+cpd00117	D-Alanine
+cpd00185	D-Arabinose
+cpd01307	D-Arabitol
+cpd00320	D-Aspartic Acid
+cpd00158	D-Cellobiose
+cpd00082	D-Fructose
+cpd00072	D-Fructose-6-Phosphate
+cpd00750	D-Fucose
+cpd02143	D-Galactonic Acid-gamma-Lactone
+cpd00108	D-Galactose
+cpd00280	D-Galacturonic Acid
+cpd00222	D-Gluconic Acid
+cpd00276	D-Glucosamine
+cpd02351	D-Glucosaminic Acid
+cpd00089	D-Glucose-1-Phosphate
+cpd00079	D-Glucose-6-Phosphate
+cpd00164	D-Glucuronic Acid
+cpd24428	D-Lactic Acid Methyl Ester
+cpd00386	D-Malic Acid
+cpd00314	D-Mannitol
+cpd00138	D-Mannose
+cpd05161	D-Melezitose
+cpd03198	D-Melibiose
+cpd03884	D-Psicose
+cpd00382	D-Raffinose
+cpd23861	D-Ribino-1,4-Lactone
+cpd00105	D-Ribose
+cpd00609	D-Saccharic Acid
+cpd00550	D-Serine
+cpd00588	D-Sorbitol
+cpd00589	D-Tagatose
+cpd00666	D-Tartaric Acid
+cpd00611	D-Threonine
+cpd00794	D-Trehalose
+cpd00794	D-Trehalose
+cpd00154	D-Xylose
+cpd00266	D,L-Carnitine
+cpd00130,cpd00386	D,L-Malic Acid
+cpd02599	D,L-Octopamine
+cpd00080	"D,L-α-Glycerol- 
+Phosphate"
+cpd00339	delta-Amino Valeric Acid
+cpd11594	Dextrin
+cpd00095	Dihydroxy Acetone
+cpd01171	Dulcitol
+cpd00047	Formic Acid
+cpd00106	Fumaric Acid
+cpd24452	gamma-Cyclodextrin
+cpd00728	gamma-Hydroxy Butyric Acid
+cpd05158	Gentiobiose
+cpd26269	Glucuronamide
+cpd00100	Glycerol
+cpd00033	Glycine
+cpd00155	Glycogen
+cpd00139	Glycolic Acid
+cpd11589	Glycyl-L-Aspartic Acid
+cpd11592	Glycyl-L-Glutamic Acid
+cpd11588	Glycyl-L-Proline
+cpd00040	Glyoxylic Acid
+cpd00851	Hydroxy-L-Proline
+cpd00392	i-Erythritol
+cpd00246	Inosine
+cpd11602	Inulin
+cpd00380	Itaconic Acid
+cpd23030	L-Alaninamide
+cpd00035	L-Alanine
+cpd11585	L-Alanyl-Glycine
+cpd00224	L-Arabinose
+cpd00417	L-Arabitol
+cpd00051	L-Arginine
+cpd00132	L-Asparagine
+cpd00041	L-Aspartic Acid
+cpd01184	L-Fructose
+cpd00820	L-Galactonic Acid-gamma-Lactone
+cpd24421	L-Glucose
+cpd00023	L-Glutamic Acid
+cpd00053	L-Glutamine
+cpd00119	L-Histidine
+cpd00227	L-Homoserine
+cpd00322	L-Isoleucine
+cpd00159	L-Lactic Acid
+cpd00107	L-Leucine
+cpd00039	L-Lysine
+cpd01067	L-Lyxose
+cpd00130	L-Malic Acid
+cpd00060	L-Methionine
+cpd00064	L-Ornithine
+cpd00066	L-Phenylalanine
+cpd00129	L-Proline
+cpd01293	L-Pyroglutamic Acid
+cpd00396	L-Rhamnose
+cpd00054	L-Serine
+cpd00212	L-Sorbose
+cpd00666	L-Tartaric Acid
+cpd00161	L-Threonine
+cpd00156	L-Valine
+cpd00179	Lactitol
+cpd04349	Lactulose
+cpd11748	Laminarin
+cpd03320	m-Hydroxy Phenyl Acetic Acid
+cpd03320	m-Hydroxy Phenyl Acetic Acid
+cpd00121	m-Inositol
+cpd00121	m-Inositol
+cpd00666	m-Tartaric Acid
+cpd00432	m-Tartaric Acid
+cpd00308	Malonic Acid
+cpd00179	Maltitol
+cpd00179	Maltose
+cpd01262	Maltotriose
+cpd11685	Mannan
+cpd24454	Melibionic Acid
+cpd24420	Methyl Pyruvate
+cpd24419	Mono Methyl Succinate
+cpd00652	Mucic Acid
+cpd27563	N-Acetyl-beta-D-Mannosamine
+cpd00832	N-Acetyl-D-Galactosamine
+cpd00122	N-Acetyl-D-Glucosamine
+cpd24427	N-Acetyl-D-Glucosaminitol
+cpd00477	N-Acteyl-L-Glutamic Acid
+cpd00232	N-Acetyl-Neuraminic Acid
+cpd00180	Oxalic Acid
+cpd01363	Oxalomalic Acid
+cpd00489	p-Hydroxy Phenyl Acetic Acid
+cpd00489	p-Hydroxy Phenyl Acetic Acid
+cpd01200	Palatinose
+cpd03161	Phenylethylamine
+cpd00141	Propionic Acid
+cpd00118	Putrescine
+cpd00020	Pyruvic Acid
+cpd00248	Quinic Acid
+cpd01030	Salicin
+cpd05192	Sebacic Acid
+cpd24429	Sec-Butylamine
+cpd24426	Sedoheptulosan
+cpd16648	Sorbic Acid
+cpd01133	Stachyose
+cpd25518	Succinamic Acid
+cpd00036	Succinic Acid
+cpd00076	Sucrose
+cpd00184	Thymidine
+cpd00137	Tricarboxylic Acid
+cpd20885	Turanose
+cpd13391	Tween 20
+cpd24417	Tween 40
+cpd13392	Tween 80
+cpd00374	Tyramine
+cpd00249	Uridine
+cpd00306	Xylitol
+cpd00027	alpha-D-Glucose
+cpd00094	α-Keto-Butyric Acid
+cpd00024	α-Keto-Glutaric Acid
+cpd00797	β-Hydroxy Butyric Acid
+cpd00281	gamma-Amino Butyric Acid
