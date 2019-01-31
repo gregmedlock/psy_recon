@@ -7,7 +7,7 @@ from cobra import Reaction, Metabolite, Model
 xl_file = pd.read_excel('../data/PST_feeder.xlsx')
 
 #at this point we have a grab bag of reactions ready to be inserted into the model, which we have yet to create
-universal = cobra.io.load_json_model('../data/seed_universal.json') #load the grab bag
+universal = cobra.io.load_json_model('../data/modelseed_data/seed_universal.json') #load the grab bag
 universal.reactions
 for x in universal.reactions:
     x.id = x.id + "0" #this is to match the formating of the rxn id in the PST model
@@ -28,5 +28,5 @@ for i in range(0,len(xl_file)):
     PST.add_reaction(reaction_to_add)
 
 #write the model
-cobra.io.save_json_model(PST,"../results/pst_feeder.json")
+cobra.io.save_json_model(PST,"../results/reconstructions/pst_feeder.json")
 

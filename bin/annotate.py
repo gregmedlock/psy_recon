@@ -32,7 +32,7 @@ gene_to_EC = gene_to_EC.reset_index()
 features = features.merge(gene_to_EC, on='kegg id')
 
 #import reconstruction to be annotated
-psy = cobra.io.read_sbml_model("../results/suffix_fixed_no_biomass.xml")
+psy = cobra.io.read_sbml_model("../results/reconstructions/suffix_fixed_no_biomass.xml")
 
 # fix seed reaction/metabolite identifiers by removing '0' suffix if it exists
 for metabolite in psy.metabolites:
@@ -59,8 +59,8 @@ for index, row in features.iterrows():
             reaction_obj.annotation['ec-code'] = features.loc[features['kegg id'] == gene_id, 'EC']
 
 # Next, load the modelseed reaction and compound aliases to annotate reactions and metabolites.
-seed_rxn_aliases = pd.read_csv('../data/Reactions_Aliases.tsv', sep = '\t')
-seed_cpd_aliases = pd.read_csv('../data/Compounds_Aliases.tsv', sep = '\t')
+seed_rxn_aliases = pd.read_csv('../data/modelseed_data/Reactions_Aliases.tsv', sep = '\t')
+seed_cpd_aliases = pd.read_csv('../data/modelseed_data/Compounds_Aliases.tsv', sep = '\t')
 
 # Replace the source IDs to be consistent with the identifiers memote is looking for
 # These are the MIRIAM compliant versions of the resources, available at identifiers.org
@@ -123,7 +123,7 @@ for metabolite in psy.metabolites:
 
 
 # Add inchi keys for all metabolites using the ModelSEED biochemistry files.
-seed_cpd_structures = pd.read_csv('../data/ModelSEED_Structures.txt', sep = '\t')
+seed_cpd_structures = pd.read_csv('../data/modelseed_data/ModelSEED_Structures.txt', sep = '\t')
 
 # Add the inchi and inchikey annotations for metabolites
 for metabolite in psy.metabolites:
@@ -188,4 +188,4 @@ for gene in psy.genes:
 for reaction in psy.reactions:
     if reaction.id.startswith('EX'):
         reaction.lower_bound = -1000
-cobra.io.write_sbml_model(psy,'../results/v4_with_all_annotations.xml')
+cobra.io.write_sbml_model(psy,'../results/reconstructions/v4_with_all_annotations.xml')
