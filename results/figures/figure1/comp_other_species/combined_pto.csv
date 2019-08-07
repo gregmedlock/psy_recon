@@ -1,0 +1,328 @@
+﻿Species,Pathway,Genes,Type
+DC3000,2-Oxocarboxylic acid metabolism,24,Carbohydrate Metabolism
+DC3000,ABC transporters,178,Transport
+DC3000,Acarbose and validamycin biosynthesis,2,Antibiotic Metabolism
+DC3000,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP",4,Nucleotide Metabolism
+DC3000,"Alanine, aspartate and glutamate metabolism",19,Amino Acid Metabolism
+DC3000,alpha-Linolenic acid metabolism,1,Fatty Acid  Metabolism
+DC3000,Amino sugar and nucleotide sugar metabolism,22,Nucleotide Metabolism
+DC3000,Aminoacyl-tRNA biosynthesis,23,Amino Acid Metabolism
+DC3000,Aminobenzoate degradation,9,Amino Acid Metabolism
+DC3000,Arachidonic acid metabolism,3,Fatty Acid  Metabolism
+DC3000,Arginine and proline metabolism,20,Amino Acid Metabolism
+DC3000,Arginine biosynthesis,20,Amino Acid Metabolism
+DC3000,"Arginine biosynthesis, ornithine => arginine",3,Amino Acid Metabolism
+DC3000,Ascorbate and aldarate metabolism,12,Carbohydrate Metabolism
+DC3000,"Assimilatory sulfate reduction, sulfate => H2S",4,Sulfur Metabolism
+DC3000,Atrazine degradation,5,Triazine Metabolism
+DC3000,Bacterial chemotaxis,57,Chemotaxis
+DC3000,Bacterial secretion system,42,Secretory System
+DC3000,Base excision repair,11,Nucleic Acid Maintainance
+DC3000,Benzoate degradation,18,Carbohydrate Metabolism
+DC3000,beta-Alanine metabolism,14,Amino Acid Metabolism
+DC3000,beta-Lactam resistance,9,Antibiotic Metabolism
+DC3000,beta-Oxidation,7,Fatty Acid  Metabolism
+DC3000,"beta-Oxidation, acyl-CoA synthesis",2,Fatty Acid  Metabolism
+DC3000,"Betaine biosynthesis, choline => betaine",2,Plant Metabolite Degredation
+DC3000,Biofilm formation - Pseudomonas aeruginosa,49,Biofilm Formation
+DC3000,Biosynthesis of amino acids,96,Amino Acid Metabolism
+DC3000,Biosynthesis of antibiotics,177,Antibiotic Metabolism
+DC3000,Biosynthesis of secondary metabolites,242,Secondary Metabolite Metabolism
+DC3000,Biosynthesis of secondary metabolites - other antibiotics,3,Antibiotic Metabolism
+DC3000,Biosynthesis of secondary metabolites - unclassified,2,Secondary Metabolite Metabolism
+DC3000,Biosynthesis of siderophore group nonribosomal peptides,7,Iron Metabolism
+DC3000,Biosynthesis of unsaturated fatty acids,1,Fatty Acid  Metabolism
+DC3000,"Biotin biosynthesis, pimeloyl-ACP/CoA => biotin",3,Cofactor Metabolism
+DC3000,Biotin metabolism,15,Cofactor Metabolism
+DC3000,Butanoate metabolism,26,Carbohydrate Metabolism
+DC3000,C5-Branched dibasic acid metabolism,7,Carbohydrate Metabolism
+DC3000,Caprolactam degradation,7,Antibiotic Metabolism
+DC3000,Carbapenem biosynthesis,1,Antibiotic Metabolism
+DC3000,Carbon metabolism,85,Carbon Metabolism
+DC3000,Cationic antimicrobial peptide (CAMP) resistance,11,Antibiotic Metabolism
+DC3000,Chloroalkane and chloroalkene degradation,7,Parrafin Metabolism
+DC3000,Chlorocyclohexane and chlorobenzene degradation,2,Parrafin Metabolism
+DC3000,"Citrate cycle (TCA cycle, Krebs cycle)",16,TCA
+DC3000,Citrate cycle (TCA cycle),19,TCA
+DC3000,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",4,TCA
+DC3000,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate",12,TCA
+DC3000,CMP-KDO biosynthesis,4,Nucleotide Metabolism
+DC3000,"Cobalamin biosynthesis, cobinamide => cobalamin",9,Cofactor Metabolism
+DC3000,"Coenzyme A biosynthesis, pantothenate => CoA",4,Cofactor Metabolism
+DC3000,Cyanoamino acid metabolism,9,Amino Acid Metabolism
+DC3000,Cysteine and methionine metabolism,34,Amino Acid Metabolism
+DC3000,"Cysteine biosynthesis, serine => cysteine",2,Amino Acid Metabolism
+DC3000,"Cytochrome c oxidase, cbb3-type",4,Cofactor Metabolism
+DC3000,Cytochrome o ubiquinol oxidase,4,Cofactor Metabolism
+DC3000,D-Alanine metabolism,3,Amino Acid Metabolism
+DC3000,"D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P",6,Carbohydrate Metabolism
+DC3000,D-Glutamine and D-glutamate metabolism,4,Amino Acid Metabolism
+DC3000,Degradation of aromatic compounds,15,Aromatic Coumpound Metabolism
+DC3000,"DNA polymerase III complex, bacteria",7,Nucleic Acid Maintainance
+DC3000,DNA replication,15,Nucleic Acid Maintainance
+DC3000,dTDP-L-rhamnose biosynthesis,5,Nucleotide Metabolism
+DC3000,"Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate",6,Carbohydrate Metabolism
+DC3000,Fatty acid biosynthesis,18,Fatty Acid  Metabolism
+DC3000,"Fatty acid biosynthesis, elongation",9,Fatty Acid  Metabolism
+DC3000,"Fatty acid biosynthesis, initiation",7,Fatty Acid  Metabolism
+DC3000,Fatty acid degradation,17,Fatty Acid  Metabolism
+DC3000,Fatty acid metabolism,28,Fatty Acid  Metabolism
+DC3000,Flagellar assembly,36,Chemotaxis
+DC3000,Fluorobenzoate degradation,1,Aromatic Coumpound Metabolism
+DC3000,Folate biosynthesis,29,Cofactor Metabolism
+DC3000,Fructose and mannose metabolism,19,Carbohydrate Metabolism
+DC3000,Galactose metabolism,13,Carbohydrate Metabolism
+DC3000,Geraniol degradation,6,Plant Metabolite Degredation
+DC3000,"Gluconeogenesis, oxaloacetate => fructose-6P",6,Carbohydrate Metabolism
+DC3000,"Glutathione biosynthesis, glutamate => glutathione",1,Amino Acid Metabolism
+DC3000,Glutathione metabolism,21,Amino Acid Metabolism
+DC3000,Glycerolipid metabolism,12,Glycerolipid Metabolism
+DC3000,Glycerophospholipid metabolism,18,Glycerolipid Metabolism
+DC3000,"Glycine, serine and threonine metabolism",41,Amino Acid Metabolism
+DC3000,Glycolysis / Gluconeogenesis,23,Carbohydrate Metabolism
+DC3000,"Glycolysis, core module involving three-carbon compounds",5,Carbohydrate Metabolism
+DC3000,Glyoxylate and dicarboxylate metabolism,36,Carbohydrate Metabolism
+DC3000,"Guanine ribonucleotide biosynthesis IMP => GDP,GTP",5,Nucleotide Metabolism
+DC3000,Histidine metabolism,7,Amino Acid Metabolism
+DC3000,Homologous recombination,21,Nucleic Acid Maintainance
+DC3000,"Imipenem resistance, repression of porin OprD",7,Antibiotic Metabolism
+DC3000,Inositol phosphate metabolism,14,Aromatic Coumpound Metabolism
+DC3000,"Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine",5,Amino Acid Metabolism
+DC3000,"Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate",4,Amino Acid Metabolism
+DC3000,Limonene and pinene degradation,8,Plant Metabolite Degredation
+DC3000,Lipopolysaccharide biosynthesis,17,Lipopolysaccharide Metabolism
+DC3000,Lysine biosynthesis,15,Amino Acid Metabolism
+DC3000,"Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine",12,Amino Acid Metabolism
+DC3000,Lysine degradation,21,Amino Acid Metabolism
+DC3000,Methane metabolism,17,Carbon Metabolism
+DC3000,Mismatch repair,17,Nucleic Acid Maintainance
+DC3000,Monobactam biosynthesis,8,Antibiotic Metabolism
+DC3000,"NAD biosynthesis, aspartate => NAD",3,Cofactor Metabolism
+DC3000,"NADH:quinone oxidoreductase, prokaryotes",13,Cofactor Metabolism
+DC3000,Naphthalene degradation,2,Aromatic Coumpound Metabolism
+DC3000,Nicotinate and nicotinamide metabolism,17,Cofactor Metabolism
+DC3000,Nitrogen metabolism,15,Nitrogen Metabolism
+DC3000,Nitrotoluene degradation,2,Aromatic Coumpound Metabolism
+DC3000,Non-homologous end-joining,2,Antibiotic Metabolism
+DC3000,Novobiocin biosynthesis,4,Nucleic Acid Maintainance
+DC3000,Nucleotide excision repair,8,Nucleic Acid Maintainance
+DC3000,"Nucleotide sugar biosynthesis, glucose => UDP-glucose",3,Nucleotide Metabolism
+DC3000,One carbon pool by folate,15,Cofactor Metabolism
+DC3000,"Ornithine biosynthesis, glutamate => ornithine",7,Carbohydrate Metabolism
+DC3000,Oxidative phosphorylation,28,Oxidative Phosphorylation
+DC3000,Pantothenate and CoA biosynthesis,13,Cofactor Metabolism
+DC3000,Pentose and glucuronate interconversions,8,Carbohydrate Metabolism
+DC3000,Pentose phosphate pathway,29,Carbohydrate Metabolism
+DC3000,Pentose phosphate pathway (Pentose phosphate cycle),11,Carbohydrate Metabolism
+DC3000,"Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P",5,Carbohydrate Metabolism
+DC3000,"Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P",5,Carbohydrate Metabolism
+DC3000,Peptidoglycan biosynthesis,16,Peptidoglycan Metabolism
+DC3000,"Phenylalanine biosynthesis, chorismate => phenylalanine",4,Amino Acid Metabolism
+DC3000,Phenylalanine metabolism,14,Amino Acid Metabolism
+DC3000,"Phenylalanine, tyrosine and tryptophan biosynthesis",24,Amino Acid Metabolism
+DC3000,"Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate",2,Cofactor Metabolism
+DC3000,"Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE",3,Glycerolipid Metabolism
+DC3000,Phosphonate and phosphinate metabolism,8,Phosphate Metabolism
+DC3000,Phosphotransferase system (PTS),3,Phosphate Metabolism
+DC3000,"Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP",10,Fatty Acid  Metabolism
+DC3000,Plant-pathogen interaction,8,Plant Metabolite Degredation
+DC3000,Polyketide sugar unit biosynthesis,5,Aromatic Coumpound Metabolism
+DC3000,Porphyrin and chlorophyll metabolism,28,Aromatic Coumpound Metabolism
+DC3000,"Proline biosynthesis, glutamate => proline",1,Amino Acid Metabolism
+DC3000,Propanoate metabolism,28,Carbohydrate Metabolism
+DC3000,Protein export,10,Transport
+DC3000,"PRPP biosynthesis, ribose 5P => PRPP",1,Carbohydrate Metabolism
+DC3000,Purine metabolism,51,Nucleotide Metabolism
+DC3000,"Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P",6,Carbohydrate Metabolism
+DC3000,Pyrimidine metabolism,27,Nucleotide Metabolism
+DC3000,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP",3,Nucleotide Metabolism
+DC3000,Pyruvate metabolism,34,Carbohydrate Metabolism
+DC3000,"Pyruvate oxidation, pyruvate => acetyl-CoA",3,Carbohydrate Metabolism
+DC3000,Quorum sensing,79,Quorum Sensing
+DC3000,"Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD",10,Cofactor Metabolism
+DC3000,Riboflavin metabolism,12,Cofactor Metabolism
+DC3000,Ribosome,49,Protein Production
+DC3000,"Ribosome, bacteria",49,Protein Production
+DC3000,RNA degradation,7,Nucleic Acid Maintainance
+DC3000,RNA polymerase,4,Nucleic Acid Maintainance
+DC3000,"RNA polymerase, bacteria",4,Nucleic Acid Maintainance
+DC3000,Selenocompound metabolism,10,Plant Metabolite Degredation
+DC3000,"Serine biosynthesis, glycerate-3P => serine",1,Amino Acid Metabolism
+DC3000,"Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate",9,Amino Acid Metabolism
+DC3000,"Siroheme biosynthesis, glutamate => siroheme",7,Iron Metabolism
+DC3000,Starch and sucrose metabolism,22,Carbohydrate Metabolism
+DC3000,Streptomycin biosynthesis,12,Antibiotic Metabolism
+DC3000,Styrene degradation,7,Aromatic Coumpound Metabolism
+DC3000,"Succinate dehydrogenase, prokaryotes",4,TCA
+DC3000,Sulfate-sulfur assimilation,9,Sulfur Metabolism
+DC3000,Sulfur metabolism,27,Sulfur Metabolism
+DC3000,Sulfur relay system,17,Transport
+DC3000,Synthesis and degradation of ketone bodies,6,Carbohydrate Metabolism
+DC3000,Taurine and hypotaurine metabolism,4,Sulfur Metabolism
+DC3000,Terpenoid backbone biosynthesis,13,Fatty Acid  Metabolism
+DC3000,"Tetrahydrofolate biosynthesis, GTP => THF",9,Nucleotide Metabolism
+DC3000,Thiamine metabolism,9,Nucleotide Metabolism
+DC3000,"Threonine biosynthesis, aspartate => homoserine => threonine",6,Amino Acid Metabolism
+DC3000,Toluene degradation,2,Aromatic Coumpound Metabolism
+DC3000,"Tryptophan biosynthesis, chorismate => tryptophan",7,Amino Acid Metabolism
+DC3000,Tryptophan metabolism,15,Amino Acid Metabolism
+DC3000,Two-component system,158,Regulation
+DC3000,"Tyrosine biosynthesis, chorismate => tyrosine",4,Amino Acid Metabolism
+DC3000,Tyrosine metabolism,14,Amino Acid Metabolism
+DC3000,Ubiquinone and other terpenoid-quinone biosynthesis,10,Cofactor Metabolism
+DC3000,"Valine, leucine and isoleucine biosynthesis",10,Amino Acid Metabolism
+DC3000,"Valine, leucine and isoleucine degradation",28,Amino Acid Metabolism
+DC3000,"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",4,Amino Acid Metabolism
+DC3000,Vancomycin resistance,6,Antibiotic Metabolism
+DC3000,Vitamin B6 metabolism,8,Cofactor Metabolism
+DC3000,Xylene degradation,2,Aromatic Coumpound Metabolism
+iPTO19,2-Oxocarboxylic acid metabolism,15,Carbohydrate Metabolism
+iPTO19,ABC transporters,47,Transport
+iPTO19,Acarbose and validamycin biosynthesis,2,Antibiotic Metabolism
+iPTO19,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP",5,Nucleotide Metabolism
+iPTO19,"Alanine, aspartate and glutamate metabolism",22,Amino Acid Metabolism
+iPTO19,alpha-Linolenic acid metabolism,1,Fatty Acid Metabolism
+iPTO19,Amino sugar and nucleotide sugar metabolism,12,Nucleotide Metabolism
+iPTO19,Aminobenzoate degradation,1,Amino Acid Metabolism
+iPTO19,Arginine and proline metabolism,18,Amino Acid Metabolism
+iPTO19,Arginine biosynthesis,16,Amino Acid Metabolism
+iPTO19,"Arginine biosynthesis, ornithine => arginine",3,Amino Acid Metabolism
+iPTO19,Ascorbate and aldarate metabolism,5,Carbohydrate Metabolism
+iPTO19,"Assimilatory sulfate reduction, sulfate => H2S",3,Sulfur Metabolism
+iPTO19,Atrazine degradation,5,Nitrogen Metabolism
+iPTO19,Bacterial chemotaxis,1,Interaction with the Environment
+iPTO19,Benzoate degradation,10,Carbohydrate Metabolism
+iPTO19,beta-Alanine metabolism,10,Amino Acid Metabolism
+iPTO19,beta-Lactam resistance,1,Antibiotic Metabolism
+iPTO19,beta-Oxidation,2,Fatty Acid Metabolism
+iPTO19,"beta-Oxidation, acyl-CoA synthesis",2,Fatty Acid Metabolism
+iPTO19,Biofilm formation - Pseudomonas aeruginosa,4,Interaction with the Environment
+iPTO19,Biosynthesis of amino acids,77,Amino Acid Metabolism
+iPTO19,Biosynthesis of antibiotics,124,Antibiotic Metabolism
+iPTO19,Biosynthesis of secondary metabolites,163,Secondary Metabolite Metabolism
+iPTO19,Biosynthesis of secondary metabolites - unclassified,1,Secondary Metabolite Metabolism
+iPTO19,Biosynthesis of siderophore group nonribosomal peptides,2,Iron Metabolism
+iPTO19,"Biotin biosynthesis, pimeloyl-ACP/CoA => biotin",3,Cofactor Metabolism
+iPTO19,Biotin metabolism,7,Cofactor Metabolism
+iPTO19,Butanoate metabolism,16,Carbohydrate Metabolism
+iPTO19,C5-Branched dibasic acid metabolism,2,Carbohydrate Metabolism
+iPTO19,Caprolactam degradation,1,Antibiotic Metabolism
+iPTO19,Carbapenem biosynthesis,2,Antibiotic Metabolism
+iPTO19,Carbon metabolism,58,Carbon Metabolism
+iPTO19,Cationic antimicrobial peptide (CAMP) resistance,2,Antibiotic Metabolism
+iPTO19,Chloroalkane and chloroalkene degradation,4,Carbon Metabolism
+iPTO19,"Citrate cycle (TCA cycle, Krebs cycle)",15,Core Metabolism
+iPTO19,Citrate cycle (TCA cycle),20,Core Metabolism
+iPTO19,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",4,Core Metabolism
+iPTO19,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate",11,Core Metabolism
+iPTO19,CMP-KDO biosynthesis,2,Nucleotide Metabolism
+iPTO19,"Cobalamin biosynthesis, cobinamide => cobalamin",1,Cofactor Metabolism
+iPTO19,"Coenzyme A biosynthesis, pantothenate => CoA",3,Cofactor Metabolism
+iPTO19,Cyanoamino acid metabolism,4,Amino Acid Metabolism
+iPTO19,Cysteine and methionine metabolism,27,Amino Acid Metabolism
+iPTO19,"Cysteine biosynthesis, serine => cysteine",3,Amino Acid Metabolism
+iPTO19,Cytochrome o ubiquinol oxidase,3,Cofactor Metabolism
+iPTO19,D-Alanine metabolism,2,Amino Acid Metabolism
+iPTO19,"D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P",3,Carbohydrate Metabolism
+iPTO19,D-Glutamine and D-glutamate metabolism,4,Amino Acid Metabolism
+iPTO19,Degradation of aromatic compounds,5,Aromatic Compound Metabolism
+iPTO19,dTDP-L-rhamnose biosynthesis,4,Nucleotide Metabolism
+iPTO19,"Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate",1,Carbohydrate Metabolism
+iPTO19,"F-type ATPase, prokaryotes and chloroplasts",4,Core Metabolism
+iPTO19,Fatty acid biosynthesis,10,Fatty Acid Metabolism
+iPTO19,"Fatty acid biosynthesis, elongation",4,Fatty Acid Metabolism
+iPTO19,"Fatty acid biosynthesis, initiation",4,Fatty Acid Metabolism
+iPTO19,Fatty acid degradation,12,Fatty Acid Metabolism
+iPTO19,Fatty acid metabolism,15,Fatty Acid Metabolism
+iPTO19,Folate biosynthesis,12,Cofactor Metabolism
+iPTO19,Fructose and mannose metabolism,8,Carbohydrate Metabolism
+iPTO19,Galactose metabolism,4,Carbohydrate Metabolism
+iPTO19,Geraniol degradation,3,Plant Metabolite Degredation
+iPTO19,"Gluconeogenesis, oxaloacetate => fructose-6P",6,Carbohydrate Metabolism
+iPTO19,"Glutathione biosynthesis, glutamate => glutathione",2,Amino Acid Metabolism
+iPTO19,Glutathione metabolism,7,Amino Acid Metabolism
+iPTO19,Glycerolipid metabolism,9,Glycerolipid Metabolism
+iPTO19,Glycerophospholipid metabolism,18,Glycerolipid Metabolism
+iPTO19,"Glycine, serine and threonine metabolism",19,Amino Acid Metabolism
+iPTO19,Glycolysis / Gluconeogenesis,18,Core Metabolism
+iPTO19,"Glycolysis, core module involving three-carbon compounds",5,Core Metabolism
+iPTO19,Glyoxylate and dicarboxylate metabolism,15,Carbohydrate Metabolism
+iPTO19,"Guanine ribonucleotide biosynthesis IMP => GDP,GTP",3,Nucleotide Metabolism
+iPTO19,"Histidine degradation, histidine => N-formiminoglutamate => glutamate",5,Amino Acid Metabolism
+iPTO19,Histidine metabolism,13,Amino Acid Metabolism
+iPTO19,Inositol phosphate metabolism,2,Aromatic Compound Metabolism
+iPTO19,"Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine",3,Amino Acid Metabolism
+iPTO19,"Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate",1,Amino Acid Metabolism
+iPTO19,Limonene and pinene degradation,4,Plant Metabolite Degredation
+iPTO19,Lipopolysaccharide biosynthesis,8,Virulence
+iPTO19,Lysine biosynthesis,6,Amino Acid Metabolism
+iPTO19,"Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine",4,Amino Acid Metabolism
+iPTO19,Lysine degradation,14,Amino Acid Metabolism
+iPTO19,Methane metabolism,11,Carbon Metabolism
+iPTO19,Monobactam biosynthesis,3,Antibiotic Metabolism
+iPTO19,"NAD biosynthesis, aspartate => NAD",4,Cofactor Metabolism
+iPTO19,"NADH:quinone oxidoreductase, prokaryotes",9,Cofactor Metabolism
+iPTO19,Naphthalene degradation,1,Aromatic Compound Metabolism
+iPTO19,Nicotinate and nicotinamide metabolism,14,Cofactor Metabolism
+iPTO19,Nitrogen metabolism,4,Nitrogen Metabolism
+iPTO19,Novobiocin biosynthesis,4,Antibiotic Metabolism
+iPTO19,One carbon pool by folate,6,Cofactor Metabolism
+iPTO19,"Ornithine biosynthesis, glutamate => ornithine",5,Carbohydrate Metabolism
+iPTO19,Oxidative phosphorylation,22,Core Metabolism
+iPTO19,Pantothenate and CoA biosynthesis,9,Fatty Acid Metabolism
+iPTO19,Pentose and glucuronate interconversions,1,Carbohydrate Metabolism
+iPTO19,Pentose phosphate pathway,10,Carbohydrate Metabolism
+iPTO19,Pentose phosphate pathway (Pentose phosphate cycle),7,Carbohydrate Metabolism
+iPTO19,"Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P",6,Carbohydrate Metabolism
+iPTO19,Peptidoglycan biosynthesis,9,Virulence
+iPTO19,"Phenylalanine biosynthesis, chorismate => phenylalanine",4,Amino Acid Metabolism
+iPTO19,Phenylalanine metabolism,3,Amino Acid Metabolism
+iPTO19,"Phenylalanine, tyrosine and tryptophan biosynthesis",22,Amino Acid Metabolism
+iPTO19,"Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate",2,Cofactor Metabolism
+iPTO19,"Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE",5,Glycerolipid Metabolism
+iPTO19,Phosphotransferase system (PTS),2,Phosphate Metabolism
+iPTO19,"Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP",4,Fatty Acid Metabolism
+iPTO19,Plant-pathogen interaction,1,Plant Metabolite Degredation
+iPTO19,Polyketide sugar unit biosynthesis,4,Aromatic Compound Metabolism
+iPTO19,Porphyrin and chlorophyll metabolism,12,Aromatic Compound Metabolism
+iPTO19,"Proline biosynthesis, glutamate => proline",3,Amino Acid Metabolism
+iPTO19,Propanoate metabolism,16,Carbohydrate Metabolism
+iPTO19,Purine metabolism,35,Nucleotide Metabolism
+iPTO19,"Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P",4,Carbohydrate Metabolism
+iPTO19,Pyrimidine metabolism,15,Nucleotide Metabolism
+iPTO19,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP",3,Nucleotide Metabolism
+iPTO19,Pyruvate metabolism,29,Carbohydrate Metabolism
+iPTO19,"Pyruvate oxidation, pyruvate => acetyl-CoA",5,Carbohydrate Metabolism
+iPTO19,Quorum sensing,21,Interaction with the Environment
+iPTO19,"Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD",5,Cofactor Metabolism
+iPTO19,Riboflavin metabolism,5,Cofactor Metabolism
+iPTO19,RNA degradation,1,Nucleic Acid Maintainance
+iPTO19,Selenocompound metabolism,6,Plant Metabolite Degredation
+iPTO19,"Serine biosynthesis, glycerate-3P => serine",1,Amino Acid Metabolism
+iPTO19,"Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate",10,Amino Acid Metabolism
+iPTO19,"Siroheme biosynthesis, glutamate => siroheme",6,Iron Metabolism
+iPTO19,Starch and sucrose metabolism,4,Carbohydrate Metabolism
+iPTO19,Streptomycin biosynthesis,5,Antibiotic Metabolism
+iPTO19,Styrene degradation,1,Aromatic Compound Metabolism
+iPTO19,"Succinate dehydrogenase, prokaryotes",4,Core Metabolism
+iPTO19,Sulfate-sulfur assimilation,5,Sulfur Metabolism
+iPTO19,Sulfur metabolism,20,Sulfur Metabolism
+iPTO19,Synthesis and degradation of ketone bodies,5,Carbohydrate Metabolism
+iPTO19,Taurine and hypotaurine metabolism,4,Sulfur Metabolism
+iPTO19,Terpenoid backbone biosynthesis,8,Fatty Acid Metabolism
+iPTO19,"Tetrahydrofolate biosynthesis, GTP => THF",7,Nucleotide Metabolism
+iPTO19,Thiamine metabolism,3,Nucleotide Metabolism
+iPTO19,"Threonine biosynthesis, aspartate => homoserine => threonine",3,Amino Acid Metabolism
+iPTO19,Toluene degradation,1,Aromatic Compound Metabolism
+iPTO19,"Tryptophan biosynthesis, chorismate => tryptophan",6,Amino Acid Metabolism
+iPTO19,Tryptophan metabolism,10,Amino Acid Metabolism
+iPTO19,Two-component system,11,Regulation
+iPTO19,"Tyrosine biosynthesis, chorismate => tyrosine",5,Amino Acid Metabolism
+iPTO19,Tyrosine metabolism,7,Amino Acid Metabolism
+iPTO19,Ubiquinone and other terpenoid-quinone biosynthesis,3,Cofactor Metabolism
+iPTO19,"Valine, leucine and isoleucine biosynthesis",4,Amino Acid Metabolism
+iPTO19,"Valine, leucine and isoleucine degradation",18,Amino Acid Metabolism
+iPTO19,"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",3,Amino Acid Metabolism
+iPTO19,Vancomycin resistance,4,Antibiotic Metabolism
+iPTO19,Vitamin B6 metabolism,5,Cofactor Metabolism
+iPTO19,Xylene degradation,1,Aromatic Compound Metabolism

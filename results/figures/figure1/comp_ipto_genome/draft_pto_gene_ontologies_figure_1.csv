@@ -1,0 +1,162 @@
+﻿Pathway,Genes,Type
+2-Oxocarboxylic acid metabolism,23,Carbohydrate Metabolism
+ABC transporters,67,Transport
+Acarbose and validamycin biosynthesis,3,Antibiotic Metabolism
+"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP",5,Nucleotide Metabolism
+"Alanine, aspartate and glutamate metabolism",26,Amino Acid Metabolism
+alpha-Linolenic acid metabolism,1,Fatty Acid Metabolism
+Amino sugar and nucleotide sugar metabolism,20,Nucleotide Metabolism
+Aminoacyl-tRNA biosynthesis,23,Amino Acid Metabolism
+Arachidonic acid metabolism,3,Fatty Acid Metabolism
+Arginine and proline metabolism,20,Amino Acid Metabolism
+Arginine biosynthesis,22,Amino Acid Metabolism
+"Arginine biosynthesis, ornithine => arginine",3,Amino Acid Metabolism
+Ascorbate and aldarate metabolism,12,Carbohydrate Metabolism
+"Assimilatory sulfate reduction, sulfate => H2S",5,Sulfur Metabolism
+Atrazine degradation,8,Triazine Metabolism
+Bacterial chemotaxis,6,Interaction with the Environment
+Benzoate degradation,14,Carbohydrate Metabolism
+beta-Alanine metabolism,8,Amino Acid Metabolism
+beta-Lactam resistance,1,Antibiotic Metabolism
+beta-Oxidation,2,Fatty Acid Metabolism
+"beta-Oxidation, acyl-CoA synthesis",2,Fatty Acid Metabolism
+"Betaine biosynthesis, choline => betaine",2,Plant Metabolite Metabolism
+Biofilm formation - Pseudomonas aeruginosa,6,Interaction with the Environment
+Biosynthesis of amino acids,111,Amino Acid Metabolism
+Biosynthesis of antibiotics,186,Antibiotic Metabolism
+Biosynthesis of secondary metabolites,241,Secondary Metabolites Metabolism
+Biosynthesis of secondary metabolites - unclassified,1,Secondary Metabolites Metabolism
+Biosynthesis of siderophore group nonribosomal peptides,2,Iron Metabolism
+"Biotin biosynthesis, pimeloyl-ACP/CoA => biotin",4,Cofactor Metabolism
+Biotin metabolism,10,Cofactor Metabolism
+Butanoate metabolism,20,Carbohydrate Metabolism
+C5-Branched dibasic acid metabolism,7,Carbohydrate Metabolism
+Caprolactam degradation,3,Antibiotic Metabolism
+Carbapenem biosynthesis,2,Antibiotic Metabolism
+Carbon metabolism,93,Carbon Metabolism
+Cationic antimicrobial peptide (CAMP) resistance,4,Antibiotic Metabolism
+Chloroalkane and chloroalkene degradation,4,Carbon Metabolism
+"Citrate cycle (TCA cycle, Krebs cycle)",17,Core Metabolism
+Citrate cycle (TCA cycle),22,Core Metabolism
+"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",4,Core Metabolism
+"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate",13,Core Metabolism
+CMP-KDO biosynthesis,3,Nucleotide Metabolism
+"Cobalamin biosynthesis, cobinamide => cobalamin",8,Cofactor Metabolism
+"Coenzyme A biosynthesis, pantothenate => CoA",4,Cofactor Metabolism
+Cyanoamino acid metabolism,8,Amino Acid Metabolism
+Cysteine and methionine metabolism,33,Amino Acid Metabolism
+"Cysteine biosynthesis, serine => cysteine",3,Amino Acid Metabolism
+Cytochrome o ubiquinol oxidase,4,Cofactor Metabolism
+D-Alanine metabolism,1,Amino Acid Metabolism
+"D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P",6,Carbohydrate Metabolism
+D-Glutamine and D-glutamate metabolism,3,Amino Acid Metabolism
+Degradation of aromatic compounds,11,Aromatic Compound Metabolism
+"DNA polymerase III complex, bacteria",5,Nucleic Acid Maintanence
+DNA replication,7,Nucleic Acid Maintanence
+dTDP-L-rhamnose biosynthesis,7,Nucleotide Metabolism
+"Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate",5,Carbohydrate Metabolism
+"F-type ATPase, prokaryotes and chloroplasts",5,Core Metabolism
+Fatty acid biosynthesis,15,Fatty Acid Metabolism
+"Fatty acid biosynthesis, elongation",5,Fatty Acid Metabolism
+"Fatty acid biosynthesis, initiation",8,Fatty Acid Metabolism
+Fatty acid degradation,12,Fatty Acid Metabolism
+Fatty acid metabolism,20,Fatty Acid Metabolism
+Folate biosynthesis,18,Cofactor Metabolism
+Fructose and mannose metabolism,15,Carbohydrate Metabolism
+Galactose metabolism,12,Carbohydrate Metabolism
+Geraniol degradation,3,Plant Metabolite Metabolism
+"Gluconeogenesis, oxaloacetate => fructose-6P",10,Carbohydrate Metabolism
+"Glutathione biosynthesis, glutamate => glutathione",2,Amino Acid Metabolism
+Glutathione metabolism,15,Amino Acid Metabolism
+Glycerolipid metabolism,8,Glycerolipid Metabolism
+Glycerophospholipid metabolism,17,Glycerolipid Metabolism
+"Glycine, serine and threonine metabolism",37,Amino Acid Metabolism
+Glycolysis / Gluconeogenesis,26,Core Metabolism
+"Glycolysis, core module involving three-carbon compounds",8,Core Metabolism
+Glyoxylate and dicarboxylate metabolism,31,Carbohydrate Metabolism
+"Guanine ribonucleotide biosynthesis IMP => GDP,GTP",4,Nucleotide Metabolism
+"Histidine degradation, histidine => N-formiminoglutamate => glutamate",6,Amino Acid Metabolism
+Histidine metabolism,16,Amino Acid Metabolism
+Homologous recombination,7,Nucleic Acid Maintanence
+Inositol phosphate metabolism,11,Phosphate Metabolism
+"Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine",6,Amino Acid Metabolism
+"Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate",4,Amino Acid Metabolism
+Limonene and pinene degradation,3,Plant Metabolite Metabolism
+Lipopolysaccharide biosynthesis,15,Virulence
+Lysine biosynthesis,10,Amino Acid Metabolism
+"Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine",8,Amino Acid Metabolism
+Lysine degradation,16,Amino Acid Metabolism
+Methane metabolism,19,Carbon Metabolism
+Mismatch repair,7,Nucleic Acid Maintanence
+Monobactam biosynthesis,4,Antibiotic Metabolism
+"NAD biosynthesis, aspartate => NAD",5,Cofactor Metabolism
+"NADH:quinone oxidoreductase, prokaryotes",13,Cofactor Metabolism
+Naphthalene degradation,2,Aromatic Compound Metabolism
+Nicotinate and nicotinamide metabolism,18,Cofactor Metabolism
+Nitrogen metabolism,9,Nitrogen Metabolism
+Novobiocin biosynthesis,5,Antibiotic Metabolism
+Nucleotide excision repair,1,Nucleic Acid Maintanence
+"Nucleotide sugar biosynthesis, glucose => UDP-glucose",3,Nucleotide Metabolism
+One carbon pool by folate,20,Carbon Metabolism
+"Ornithine biosynthesis, glutamate => ornithine",7,Amino Acid Metabolism
+Oxidative phosphorylation,33,Core Metabolism
+Pantothenate and CoA biosynthesis,12,Cofactor Metabolism
+Pentose and glucuronate interconversions,8,Carbohydrate Metabolism
+Pentose phosphate pathway,29,Carbohydrate Metabolism
+Pentose phosphate pathway (Pentose phosphate cycle),11,Carbohydrate Metabolism
+"Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P",6,Carbohydrate Metabolism
+"Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P",4,Carbohydrate Metabolism
+Peptidoglycan biosynthesis,9,Virulence
+"Phenylalanine biosynthesis, chorismate => phenylalanine",5,Amino Acid Metabolism
+Phenylalanine metabolism,7,Amino Acid Metabolism
+"Phenylalanine, tyrosine and tryptophan biosynthesis",28,Amino Acid Metabolism
+"Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate",2,Cofactor Metabolism
+"Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE",5,Glycerolipid Metabolism
+Phosphotransferase system (PTS),2,Phosphate Metabolism
+"Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP",5,Fatty Acid Metabolism
+Plant-pathogen interaction,2,Interaction with the Environment
+Polyketide sugar unit biosynthesis,7,Aromatic Compound Metabolism
+Porphyrin and chlorophyll metabolism,25,Aromatic Compound Metabolism
+"Proline biosynthesis, glutamate => proline",3,Amino Acid Metabolism
+Propanoate metabolism,22,Carbohydrate Metabolism
+"PRPP biosynthesis, ribose 5P => PRPP",1,Nucleotide Metabolism
+Purine metabolism,50,Nucleotide Metabolism
+"Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P",6,Carbohydrate Metabolism
+Pyrimidine metabolism,22,Nucleotide Metabolism
+"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP",3,Nucleotide Metabolism
+Pyruvate metabolism,36,Core Metabolism
+"Pyruvate oxidation, pyruvate => acetyl-CoA",5,Core Metabolism
+Quorum sensing,24,Interaction with the Environment
+"Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD",7,Cofactor Metabolism
+Riboflavin metabolism,8,Cofactor Metabolism
+RNA degradation,3,Nucleic Acid Maintanence
+RNA polymerase,3,Nucleic Acid Maintanence
+"RNA polymerase, bacteria",3,Nucleic Acid Maintanence
+Selenocompound metabolism,8,Plant Metabolite Metabolism
+"Serine biosynthesis, glycerate-3P => serine",3,Amino Acid Metabolism
+"Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate",12,Carbohydrate Metabolism
+"Siroheme biosynthesis, glutamate => siroheme",8,Iron Metabolism
+Starch and sucrose metabolism,17,Carbohydrate Metabolism
+Streptomycin biosynthesis,13,Antibiotic Metabolism
+Styrene degradation,4,Aromatic Compound Metabolism
+"Succinate dehydrogenase, prokaryotes",4,Core Metabolism
+Sulfate-sulfur assimilation,9,Sulfur Metabolism
+Sulfur metabolism,25,Sulfur Metabolism
+Sulfur relay system,3,Sulfur Metabolism
+Synthesis and degradation of ketone bodies,6,Carbohydrate Metabolism
+Taurine and hypotaurine metabolism,5,Sulfur Metabolism
+Terpenoid backbone biosynthesis,11,Fatty Acid Metabolism
+"Tetrahydrofolate biosynthesis, GTP => THF",9,Nucleotide Metabolism
+Thiamine metabolism,8,Nucleotide Metabolism
+"Threonine biosynthesis, aspartate => homoserine => threonine",6,Amino Acid Metabolism
+"Tryptophan biosynthesis, chorismate => tryptophan",7,Amino Acid Metabolism
+Tryptophan metabolism,9,Amino Acid Metabolism
+Two-component system,24,Regulation
+"Tyrosine biosynthesis, chorismate => tyrosine",5,Amino Acid Metabolism
+Tyrosine metabolism,14,Amino Acid Metabolism
+Ubiquinone and other terpenoid-quinone biosynthesis,7,Cofactor Metabolism
+"Valine, leucine and isoleucine biosynthesis",11,Amino Acid Metabolism
+"Valine, leucine and isoleucine degradation",20,Amino Acid Metabolism
+"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",4,Amino Acid Metabolism
+Vancomycin resistance,3,Antibiotic Metabolism
+Vitamin B6 metabolism,8,Cofactor Metabolism

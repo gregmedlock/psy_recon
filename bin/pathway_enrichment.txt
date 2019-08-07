@@ -1,0 +1,612 @@
+ 415
+Oxidative phosphorylation 22
+Arginine biosynthesis 16
+Atrazine degradation 5
+Metabolic pathways 350
+Microbial metabolism in diverse environments 100
+Valine, leucine and isoleucine biosynthesis 4
+Butanoate metabolism 16
+C5-Branched dibasic acid metabolism 2
+Pantothenate and CoA biosynthesis 9
+Biosynthesis of secondary metabolites 163
+Biosynthesis of antibiotics 124
+2-Oxocarboxylic acid metabolism 15
+Biosynthesis of amino acids 77
+Module 221
+Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine 3
+Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine 3
+Glycolysis / Gluconeogenesis 18
+Citrate cycle (TCA cycle) 20
+Pyruvate metabolism 29
+Carbon metabolism 58
+Pyruvate oxidation, pyruvate => acetyl-CoA 5
+Nicotinate and nicotinamide metabolism 14
+Cyanoamino acid metabolism 4
+Starch and sucrose metabolism 4
+Porphyrin and chlorophyll metabolism 12
+Siroheme biosynthesis, glutamate => siroheme 6
+Brite 134
+KEGG Orthology (KO) [BR: 134
+PSPTO_5251 (hemB) 1
+Riboflavin metabolism 5
+Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD 5
+Cysteine and methionine metabolism 27
+Sulfur metabolism 20
+Cysteine biosynthesis, serine => cysteine 3
+Purine metabolism 35
+Alanine, aspartate and glutamate metabolism 22
+Nitrogen metabolism 4
+Glutathione metabolism 7
+Thiamine metabolism 3
+Adenine ribonucleotide biosynthesis, IMP => ADP,ATP 5
+PSPTO_1509 (adk) 1
+Coenzyme A biosynthesis, pantothenate => CoA 3
+NAD biosynthesis, aspartate => NAD 4
+Pyrimidine metabolism 15
+Guanine ribonucleotide biosynthesis IMP => GDP,GTP 3
+Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP 3
+PSPTO_1430 (ndk) 1
+Vitamin B6 metabolism 5
+Arginine and proline metabolism 18
+PSPTO_5401 (cysQ) 1
+PSPTO_1990 (apt) 1
+Biofilm formation - Pseudomonas aeruginosa 4
+PSPTO_5068 (ahcY) 1
+Methane metabolism 11
+Glycolysis, core module involving three-carbon compounds 5
+PSPTO_4337 (pyk) 1
+Lysine degradation 14
+Tyrosine metabolism 7
+Two-component system 9
+Glycine, serine and threonine metabolism 19
+Taurine and hypotaurine metabolism 4
+Propanoate metabolism 16
+Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate 2
+Fatty acid degradation 12
+Synthesis and degradation of ketone bodies 5
+Valine, leucine and isoleucine degradation 18
+Benzoate degradation 10
+Tryptophan metabolism 10
+Glyoxylate and dicarboxylate metabolism 15
+Terpenoid backbone biosynthesis 8
+Fatty acid metabolism 15
+PSPTO_0957 (phbA-1) 1
+Carbapenem biosynthesis 2
+Proline biosynthesis, glutamate => proline 3
+Ascorbate and aldarate metabolism 5
+Histidine metabolism 13
+beta-Alanine metabolism 10
+Glycerolipid metabolism 9
+Chloroalkane and chloroalkene degradation 4
+Limonene and pinene degradation 4
+PSPTO_0359 (glnA-1) 1
+D-Glutamine and D-glutamate metabolism 4
+PSPTO_1112 (murI) 1
+Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P 4
+Galactose metabolism 4
+Amino sugar and nucleotide sugar metabolism 12
+PSPTO_0073 (spoT) 1
+Gluconeogenesis, oxaloacetate => fructose-6P 6
+Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate 1
+Citrate cycle (TCA cycle, Krebs cycle) 15
+Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate 4
+Phenylalanine metabolism 4
+Phenylalanine, tyrosine and tryptophan biosynthesis 22
+Novobiocin biosynthesis 4
+PSPTO_2925 (aspB) 1
+D-Alanine metabolism 2
+Vancomycin resistance 4
+PSPTO_0103 (dadX) 1
+Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate 11
+Succinate dehydrogenase, prokaryotes 4
+PSPTO_1196 1
+Folate biosynthesis 12
+Tetrahydrofolate biosynthesis, GTP => THF 7
+Quorum sensing 21
+Pentose phosphate pathway 10
+Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate 1
+Monobactam biosynthesis 3
+Lysine biosynthesis 6
+Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine 4
+Threonine biosynthesis, aspartate => homoserine => threonine 3
+Tryptophan biosynthesis, chorismate => tryptophan 6
+PSPTO_0787 (ggt) 1
+Glutathione biosynthesis, glutamate => glutathione 2
+Assimilatory sulfate reduction, sulfate => H2S 3
+Sulfate-sulfur assimilation 5
+Histidine degradation, histidine => N-formiminoglutamate => glutamate 5
+PSPTO_1633 (asnB) 1
+RNA degradation 1
+RNA degradosome 1
+PSPTO_1554 (eno-1) 1
+Peptidoglycan biosynthesis 9
+PSPTO_4441 (murA) 1
+Ornithine biosynthesis, glutamate => ornithine 5
+Phenylalanine biosynthesis, chorismate => phenylalanine 4
+Tyrosine biosynthesis, chorismate => tyrosine 5
+PSPTO_2163 (aspC) 1
+Inositol phosphate metabolism 2
+PSPTO_5017 1
+Glycerophospholipid metabolism 18
+Fructose and mannose metabolism 8
+PSPTO_5168 (fbp) 1
+PSPTO_5595 (glmS) 1
+Selenocompound metabolism 6
+Plant-pathogen interaction 1
+PSPTO_4168 (glpK) 1
+PSPTO_0774 1
+One carbon pool by folate 6
+Streptomycin biosynthesis 5
+Naphthalene degradation 1
+Degradation of aromatic compounds 5
+Pentose phosphate pathway (Pentose phosphate cycle) 7
+Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P 6
+D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P 3
+PSPTO_1287 (gap-1) 1
+PSPTO_3811 (purF) 1
+Arginine biosynthesis, ornithine => arginine 3
+PSPTO_0125 (argH) 1
+PSPTO_1332 (ilvE) 1
+PSPTO_4866 (purH) 1
+PSPTO_1449 (guaB) 1
+PSPTO_4406 1
+Geraniol degradation 3
+alpha-Linolenic acid metabolism 1
+beta-Oxidation 2
+Fatty acid biosynthesis 10
+beta-Oxidation, acyl-CoA synthesis 2
+PSPTO_4097 (fadD-1) 1
+PSPTO_4098 (fadD-2) 1
+Ubiquinone and other terpenoid-quinone biosynthesis 3
+PSPTO_0387 (pgk) 1
+Pentose and glucuronate interconversions 1
+PSPTO_0301 (gabT-2) 1
+PSPTO_0259 (gabT-1) 1
+PSPTO_2201 (lpdA) 1
+Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate 10
+PSPTO_1832 (argD-1) 1
+PSPTO_5339 (tyrB) 1
+PSPTO_4155 (argG) 1
+Caprolactam degradation 1
+PSPTO_0699 (ispA) 1
+PSPTO_2618 (argD-2) 1
+Polyketide sugar unit biosynthesis 4
+Acarbose and validamycin biosynthesis 2
+dTDP-L-rhamnose biosynthesis 4
+Styrene degradation 1
+Phosphotransferase system (PTS) 2
+PTS system, fructose-specific II component 2
+PSPTO_0954 1
+PSPTO_4410 (murD) 1
+PSPTO_4413 (murE) 1
+Xylene degradation 1
+Toluene degradation 1
+Aminobenzoate degradation 1
+Lipopolysaccharide biosynthesis 8
+PSPTO_0186 1
+Biotin metabolism 7
+Biotin biosynthesis, pimeloyl-ACP/CoA => biotin 3
+PSPTO_3842 (murB) 1
+PSPTO_4407 (murC) 1
+PSPTO_0495 (bioF) 1
+CMP-KDO biosynthesis 2
+PSPTO_1553 (kdsA) 1
+PSPTO_0959 (pgi) 1
+PSPTO_4449 1
+Serine biosynthesis, glycerate-3P => serine 1
+PSPTO_1746 (serC) 1
+Fatty acid biosynthesis, elongation 4
+Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP 4
+PSPTO_2210 (fabB) 1
+Cationic antimicrobial peptide (CAMP) resistance 2
+PSPTO_4945 1
+PSPTO_5528 1
+PSPTO_1821 (phhB) 1
+PSPTO_0744 1
+PSPTO_3164 (phbA-2) 1
+PSPTO_4408 (murG) 1
+Cobalamin biosynthesis, cobinamide => cobalamin 1
+PSPTO_5476 (ubiA) 1
+PSPTO_4411 (mraY) 1
+ABC transporters 47
+Zinc transport system 2
+PSPTO_5265 (znuB) 1
+PSPTO_5266 (znuC) 1
+Sulfate/thiosulfate transport system 2
+PSPTO_0308 (sbp) 1
+PSPTO_0310 1
+Glucose/mannose transport system 3
+PSPTO_1294 1
+PSPTO_1293 1
+Putative sorbitol/mannitol transport system 4
+alpha-Glucoside transport system 1
+PSPTO_1295 (gltK) 1
+Branched-chain amino acid transport system 10
+PSPTO_4110 1
+PSPTO_4919 1
+PSPTO_4915 1
+PSPTO_4917 (braE) 1
+PSPTO_4112 1
+PSPTO_4916 1
+PSPTO_4108 1
+PSPTO_4918 (braD) 1
+PSPTO_4109 1
+Putrescine transport system 2
+PSPTO_5307 1
+Putative spermidine/putrescine transport system 2
+PSPTO_3880 1
+PSPTO_3881 1
+PSPTO_5302 (potH) 1
+Putative lysine/arginine/ornithine/histidine/octopine transport system 4
+PSPTO_5360 1
+PSPTO_5357 1
+PSPTO_5359 1
+PSPTO_5358 1
+Bacterial chemotaxis 1
+Ribose transport system 3
+PSPTO_2367 (rbsB-1) 1
+PSPTO_2368 (rbsA-1) 1
+PSPTO_2369 (rbsC-1) 1
+PSPTO_4111 1
+Taurine transport system 3
+PSPTO_5321 (tauC) 1
+PSPTO_5319 (tauA) 1
+PSPTO_5320 (tauB) 1
+D-Methionine transport system 6
+PSPTO_5262 (metN-2) 1
+PSPTO_5187 (metQ-1) 1
+PSPTO_5261 (metI-2) 1
+PSPTO_5189 (metI-1) 1
+PSPTO_5260 (metQ-2) 1
+PSPTO_5188 (metN-1) 1
+PSPTO_1671 (nrdA) 1
+PSPTO_1661 (nrdB) 1
+PSPTO_3721 (fabI) 1
+PSPTO_3832 (fabG) 1
+PSPTO_3830 (fabF) 1
+Fatty acid biosynthesis, initiation 4
+PSPTO_3833 (fabD) 1
+Sulfonate transport system 6
+PSPTO_2786 1
+PSPTO_2788 1
+Dipeptide transport system 3
+PSPTO_4564 1
+Peptides/nickel transport system 1
+PSPTO_2572 1
+PSPTO_4562 1
+PSPTO_4563 (dppC) 1
+PSPTO_5314 1
+PSPTO_0956 1
+PSPTO_1682 (dctA-1) 1
+PSPTO_5316 1
+PSPTO_5315 (ssuC) 1
+PSPTO_2787 1
+PSPTO_2705 1
+PSPTO_2706 1
+PSPTO_0364 1
+Biosynthesis of siderophore group nonribosomal peptides 2
+Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE 5
+PSPTO_1520 (plsB) 1
+PSPTO_0541 1
+PSPTO_1329 (cyoE) 1
+F-type ATPase, prokaryotes and chloroplasts 4
+PSPTO_5600 (atpG) 1
+PSPTO_5598 (atpC) 1
+PSPTO_5603 (atpF) 1
+PSPTO_5604 (atpE) 1
+Cytochrome o ubiquinol oxidase 3
+NADH:quinone oxidoreductase, prokaryotes 9
+beta-Lactam resistance 1
+PSPTO_4825 1
+PSPTO_0187 1
+PSPTO_4402 (lpxC) 1
+PSPTO_3745 (lpxH) 1
+PSPTO_1547 (lpxB) 1
+PSPTO_4978 (kdtA) 1
+PSPTO_3871 (htrB) 1
+ 415
+Oxidative phosphorylation 22
+Arginine biosynthesis 16
+Atrazine degradation 5
+Metabolic pathways 350
+Microbial metabolism in diverse environments 100
+Valine, leucine and isoleucine biosynthesis 4
+Butanoate metabolism 16
+C5-Branched dibasic acid metabolism 2
+Pantothenate and CoA biosynthesis 9
+Biosynthesis of secondary metabolites 163
+Biosynthesis of antibiotics 124
+2-Oxocarboxylic acid metabolism 15
+Biosynthesis of amino acids 77
+Module 221
+Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine 3
+Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine 3
+Glycolysis / Gluconeogenesis 18
+Citrate cycle (TCA cycle) 20
+Pyruvate metabolism 29
+Carbon metabolism 58
+Pyruvate oxidation, pyruvate => acetyl-CoA 5
+Nicotinate and nicotinamide metabolism 14
+Cyanoamino acid metabolism 4
+Starch and sucrose metabolism 4
+Porphyrin and chlorophyll metabolism 12
+Siroheme biosynthesis, glutamate => siroheme 6
+Brite 134
+KEGG Orthology (KO) [BR: 134
+PSPTO_5251 (hemB) 1
+Riboflavin metabolism 5
+Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD 5
+Cysteine and methionine metabolism 27
+Sulfur metabolism 20
+Cysteine biosynthesis, serine => cysteine 3
+Purine metabolism 35
+Alanine, aspartate and glutamate metabolism 22
+Nitrogen metabolism 4
+Glutathione metabolism 7
+Thiamine metabolism 3
+Adenine ribonucleotide biosynthesis, IMP => ADP,ATP 5
+PSPTO_1509 (adk) 1
+Coenzyme A biosynthesis, pantothenate => CoA 3
+NAD biosynthesis, aspartate => NAD 4
+Pyrimidine metabolism 15
+Guanine ribonucleotide biosynthesis IMP => GDP,GTP 3
+Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP 3
+PSPTO_1430 (ndk) 1
+Vitamin B6 metabolism 5
+Arginine and proline metabolism 18
+PSPTO_5401 (cysQ) 1
+PSPTO_1990 (apt) 1
+Biofilm formation - Pseudomonas aeruginosa 4
+PSPTO_5068 (ahcY) 1
+Methane metabolism 11
+Glycolysis, core module involving three-carbon compounds 5
+PSPTO_4337 (pyk) 1
+Lysine degradation 14
+Tyrosine metabolism 7
+Two-component system 9
+Glycine, serine and threonine metabolism 19
+Taurine and hypotaurine metabolism 4
+Propanoate metabolism 16
+Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate 2
+Fatty acid degradation 12
+Synthesis and degradation of ketone bodies 5
+Valine, leucine and isoleucine degradation 18
+Benzoate degradation 10
+Tryptophan metabolism 10
+Glyoxylate and dicarboxylate metabolism 15
+Terpenoid backbone biosynthesis 8
+Fatty acid metabolism 15
+PSPTO_0957 (phbA-1) 1
+Carbapenem biosynthesis 2
+Proline biosynthesis, glutamate => proline 3
+Ascorbate and aldarate metabolism 5
+Histidine metabolism 13
+beta-Alanine metabolism 10
+Glycerolipid metabolism 9
+Chloroalkane and chloroalkene degradation 4
+Limonene and pinene degradation 4
+PSPTO_0359 (glnA-1) 1
+D-Glutamine and D-glutamate metabolism 4
+PSPTO_1112 (murI) 1
+Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P 4
+Galactose metabolism 4
+Amino sugar and nucleotide sugar metabolism 12
+PSPTO_0073 (spoT) 1
+Gluconeogenesis, oxaloacetate => fructose-6P 6
+Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate 1
+Citrate cycle (TCA cycle, Krebs cycle) 15
+Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate 4
+Phenylalanine metabolism 4
+Phenylalanine, tyrosine and tryptophan biosynthesis 22
+Novobiocin biosynthesis 4
+PSPTO_2925 (aspB) 1
+D-Alanine metabolism 2
+Vancomycin resistance 4
+PSPTO_0103 (dadX) 1
+Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate 11
+Succinate dehydrogenase, prokaryotes 4
+PSPTO_1196 1
+Folate biosynthesis 12
+Tetrahydrofolate biosynthesis, GTP => THF 7
+Quorum sensing 21
+Pentose phosphate pathway 10
+Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate 1
+Monobactam biosynthesis 3
+Lysine biosynthesis 6
+Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine 4
+Threonine biosynthesis, aspartate => homoserine => threonine 3
+Tryptophan biosynthesis, chorismate => tryptophan 6
+PSPTO_0787 (ggt) 1
+Glutathione biosynthesis, glutamate => glutathione 2
+Assimilatory sulfate reduction, sulfate => H2S 3
+Sulfate-sulfur assimilation 5
+Histidine degradation, histidine => N-formiminoglutamate => glutamate 5
+PSPTO_1633 (asnB) 1
+RNA degradation 1
+RNA degradosome 1
+PSPTO_1554 (eno-1) 1
+Peptidoglycan biosynthesis 9
+PSPTO_4441 (murA) 1
+Ornithine biosynthesis, glutamate => ornithine 5
+Phenylalanine biosynthesis, chorismate => phenylalanine 4
+Tyrosine biosynthesis, chorismate => tyrosine 5
+PSPTO_2163 (aspC) 1
+Inositol phosphate metabolism 2
+PSPTO_5017 1
+Glycerophospholipid metabolism 18
+Fructose and mannose metabolism 8
+PSPTO_5168 (fbp) 1
+PSPTO_5595 (glmS) 1
+Selenocompound metabolism 6
+Plant-pathogen interaction 1
+PSPTO_4168 (glpK) 1
+PSPTO_0774 1
+One carbon pool by folate 6
+Streptomycin biosynthesis 5
+Naphthalene degradation 1
+Degradation of aromatic compounds 5
+Pentose phosphate pathway (Pentose phosphate cycle) 7
+Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P 6
+D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P 3
+PSPTO_1287 (gap-1) 1
+PSPTO_3811 (purF) 1
+Arginine biosynthesis, ornithine => arginine 3
+PSPTO_0125 (argH) 1
+PSPTO_1332 (ilvE) 1
+PSPTO_4866 (purH) 1
+PSPTO_1449 (guaB) 1
+PSPTO_4406 1
+Geraniol degradation 3
+alpha-Linolenic acid metabolism 1
+beta-Oxidation 2
+Fatty acid biosynthesis 10
+beta-Oxidation, acyl-CoA synthesis 2
+PSPTO_4097 (fadD-1) 1
+PSPTO_4098 (fadD-2) 1
+Ubiquinone and other terpenoid-quinone biosynthesis 3
+PSPTO_0387 (pgk) 1
+Pentose and glucuronate interconversions 1
+PSPTO_0301 (gabT-2) 1
+PSPTO_0259 (gabT-1) 1
+PSPTO_2201 (lpdA) 1
+Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate 10
+PSPTO_1832 (argD-1) 1
+PSPTO_5339 (tyrB) 1
+PSPTO_4155 (argG) 1
+Caprolactam degradation 1
+PSPTO_0699 (ispA) 1
+PSPTO_2618 (argD-2) 1
+Polyketide sugar unit biosynthesis 4
+Acarbose and validamycin biosynthesis 2
+dTDP-L-rhamnose biosynthesis 4
+Styrene degradation 1
+Phosphotransferase system (PTS) 2
+PTS system, fructose-specific II component 2
+PSPTO_0954 1
+PSPTO_4410 (murD) 1
+PSPTO_4413 (murE) 1
+Xylene degradation 1
+Toluene degradation 1
+Aminobenzoate degradation 1
+Lipopolysaccharide biosynthesis 8
+PSPTO_0186 1
+Biotin metabolism 7
+Biotin biosynthesis, pimeloyl-ACP/CoA => biotin 3
+PSPTO_3842 (murB) 1
+PSPTO_4407 (murC) 1
+PSPTO_0495 (bioF) 1
+CMP-KDO biosynthesis 2
+PSPTO_1553 (kdsA) 1
+PSPTO_0959 (pgi) 1
+PSPTO_4449 1
+Serine biosynthesis, glycerate-3P => serine 1
+PSPTO_1746 (serC) 1
+Fatty acid biosynthesis, elongation 4
+Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP 4
+PSPTO_2210 (fabB) 1
+Cationic antimicrobial peptide (CAMP) resistance 2
+PSPTO_4945 1
+PSPTO_5528 1
+PSPTO_1821 (phhB) 1
+PSPTO_0744 1
+PSPTO_3164 (phbA-2) 1
+PSPTO_4408 (murG) 1
+Cobalamin biosynthesis, cobinamide => cobalamin 1
+PSPTO_5476 (ubiA) 1
+PSPTO_4411 (mraY) 1
+ABC transporters 47
+Zinc transport system 2
+PSPTO_5265 (znuB) 1
+PSPTO_5266 (znuC) 1
+Sulfate/thiosulfate transport system 2
+PSPTO_0308 (sbp) 1
+PSPTO_0310 1
+Glucose/mannose transport system 3
+PSPTO_1294 1
+PSPTO_1293 1
+Putative sorbitol/mannitol transport system 4
+alpha-Glucoside transport system 1
+PSPTO_1295 (gltK) 1
+Branched-chain amino acid transport system 10
+PSPTO_4110 1
+PSPTO_4919 1
+PSPTO_4915 1
+PSPTO_4917 (braE) 1
+PSPTO_4112 1
+PSPTO_4916 1
+PSPTO_4108 1
+PSPTO_4918 (braD) 1
+PSPTO_4109 1
+Putrescine transport system 2
+PSPTO_5307 1
+Putative spermidine/putrescine transport system 2
+PSPTO_3880 1
+PSPTO_3881 1
+PSPTO_5302 (potH) 1
+Putative lysine/arginine/ornithine/histidine/octopine transport system 4
+PSPTO_5360 1
+PSPTO_5357 1
+PSPTO_5359 1
+PSPTO_5358 1
+Bacterial chemotaxis 1
+Ribose transport system 3
+PSPTO_2367 (rbsB-1) 1
+PSPTO_2368 (rbsA-1) 1
+PSPTO_2369 (rbsC-1) 1
+PSPTO_4111 1
+Taurine transport system 3
+PSPTO_5321 (tauC) 1
+PSPTO_5319 (tauA) 1
+PSPTO_5320 (tauB) 1
+D-Methionine transport system 6
+PSPTO_5262 (metN-2) 1
+PSPTO_5187 (metQ-1) 1
+PSPTO_5261 (metI-2) 1
+PSPTO_5189 (metI-1) 1
+PSPTO_5260 (metQ-2) 1
+PSPTO_5188 (metN-1) 1
+PSPTO_1671 (nrdA) 1
+PSPTO_1661 (nrdB) 1
+PSPTO_3721 (fabI) 1
+PSPTO_3832 (fabG) 1
+PSPTO_3830 (fabF) 1
+Fatty acid biosynthesis, initiation 4
+PSPTO_3833 (fabD) 1
+Sulfonate transport system 6
+PSPTO_2786 1
+PSPTO_2788 1
+Dipeptide transport system 3
+PSPTO_4564 1
+Peptides/nickel transport system 1
+PSPTO_2572 1
+PSPTO_4562 1
+PSPTO_4563 (dppC) 1
+PSPTO_5314 1
+PSPTO_0956 1
+PSPTO_1682 (dctA-1) 1
+PSPTO_5316 1
+PSPTO_5315 (ssuC) 1
+PSPTO_2787 1
+PSPTO_2705 1
+PSPTO_2706 1
+PSPTO_0364 1
+Biosynthesis of siderophore group nonribosomal peptides 2
+Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE 5
+PSPTO_1520 (plsB) 1
+PSPTO_0541 1
+PSPTO_1329 (cyoE) 1
+F-type ATPase, prokaryotes and chloroplasts 4
+PSPTO_5600 (atpG) 1
+PSPTO_5598 (atpC) 1
+PSPTO_5603 (atpF) 1
+PSPTO_5604 (atpE) 1
+Cytochrome o ubiquinol oxidase 3
+NADH:quinone oxidoreductase, prokaryotes 9
+beta-Lactam resistance 1
+PSPTO_4825 1
+PSPTO_0187 1
+PSPTO_4402 (lpxC) 1
+PSPTO_3745 (lpxH) 1
+PSPTO_1547 (lpxB) 1
+PSPTO_4978 (kdtA) 1
+PSPTO_3871 (htrB) 1

@@ -1,0 +1,523 @@
+,0
+,424
+00250,16
+"Alanine, aspartate and glutamate metabolism",16
+00760,10
+Nicotinate and nicotinamide metabolism,10
+01100,388
+Metabolic pathways,388
+Module,161
+_M00115,5
+"NAD biosynthesis, aspartate => NAD",5
+00310,8
+Lysine degradation,8
+00061,11
+Fatty acid biosynthesis,11
+00780,9
+Biotin metabolism,9
+01130,116
+Biosynthesis of antibiotics,116
+01212,15
+Fatty acid metabolism,15
+_M00083,5
+"Fatty acid biosynthesis, elongation",5
+_M00572,4
+"Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP",4
+Brite,123
+KEGG Orthology (KO) [BR:,123
+00001],123
+ 09100 Metabolism,105
+09103 Lipid metabolism,10
+ 00061 Fatty acid biosynthesis,7
+PA1470,1
+09108 Metabolism of cofactors and vitamins,19
+ 00780 Biotin metabolism,7
+09110 Biosynthesis of other secondary metabolites,5
+ 00333 Prodigiosin biosynthesis,4
+ 09180 ,123
+PA1610 (fabA),1
+00564,13
+Glycerophospholipid metabolism,13
+01110,157
+Biosynthesis of secondary metabolites,157
+PA1806 (fabI),1
+00280,15
+"Valine, leucine and isoleucine degradation",15
+_M00036,8
+"Leucine degradation, leucine => acetoacetate + acetyl-CoA",8
+PA2967 (fabG),1
+00290,6
+"Valine, leucine and isoleucine biosynthesis",6
+00660,4
+C5-Branched dibasic acid metabolism,4
+01210,13
+2-Oxocarboxylic acid metabolism,13
+01230,65
+Biosynthesis of amino acids,65
+_M00432,1
+"Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate",1
+00010,14
+Glycolysis / Gluconeogenesis,14
+01120,97
+Microbial metabolism in diverse environments,97
+01200,45
+Carbon metabolism,45
+_M00002,5
+"Glycolysis, core module involving three-carbon compounds",5
+_M00003,8
+"Gluconeogenesis, oxaloacetate => fructose-6P",8
+09101 Carbohydrate metabolism,19
+ 00010 Glycolysis / Gluconeogenesis,7
+PA3195 (gapA),1
+00400,11
+"Phenylalanine, tyrosine and tryptophan biosynthesis",11
+00362,10
+Benzoate degradation,10
+01220,10
+Degradation of aromatic compounds,10
+00350,7
+Tyrosine metabolism,7
+00650,10
+Butanoate metabolism,10
+00260,18
+"Glycine, serine and threonine metabolism",18
+00270,28
+Cysteine and methionine metabolism,28
+00680,13
+Methane metabolism,13
+_M00020,2
+"Serine biosynthesis, glycerate-3P => serine",2
+09102 Energy metabolism,6
+ 00680 Methane metabolism,4
+PA0316 (serA),1
+09105 Amino acid metabolism,26
+" 00260 Glycine, serine and threonine metabolism",5
+ 00270 Cysteine and methionine metabolism,6
+00670,7
+One carbon pool by folate,7
+00790,11
+Folate biosynthesis,11
+_M00126,5
+"Tetrahydrofolate biosynthesis, GTP => THF",5
+00330,22
+Arginine and proline metabolism,22
+_M00015,3
+"Proline biosynthesis, glutamate => proline",3
+00071,6
+Fatty acid degradation,6
+00380,9
+Tryptophan metabolism,9
+00750,7
+Vitamin B6 metabolism,7
+_M00124,5
+"Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P",5
+00220,12
+Arginine biosynthesis,12
+_M00028,5
+"Ornithine biosynthesis, glutamate => ornithine",5
+" 00250 Alanine, aspartate and glutamate metabolism",8
+PA0782 (putA),1
+ 00330 Arginine and proline metabolism,4
+00640,14
+Propanoate metabolism,14
+_M00087,2
+beta-Oxidation,2
+00620,18
+Pyruvate metabolism,18
+00860,21
+Porphyrin and chlorophyll metabolism,21
+00020,7
+Citrate cycle (TCA cycle),7
+00630,9
+Glyoxylate and dicarboxylate metabolism,9
+_M00009,5
+"Citrate cycle (TCA cycle, Krebs cycle)",5
+_M00011,4
+"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate",4
+_M00307,2
+"Pyruvate oxidation, pyruvate => acetyl-CoA",2
+PA1587 (lpdG),1
+ 00020 Citrate cycle (TCA cycle),1
+ 00620 Pyruvate metabolism,2
+ 00630 Glyoxylate and dicarboxylate metabolism,2
+ 00640 Propanoate metabolism,3
+" 00280 Valine, leucine and isoleucine degradation",5
+ 00310 Lysine degradation,3
+ 00380 Tryptophan metabolism,2
+PA1609 (fabB),1
+00072,4
+Synthesis and degradation of ketone bodies,4
+00480,6
+Glutathione metabolism,6
+00030,17
+Pentose phosphate pathway,17
+00051,10
+Fructose and mannose metabolism,10
+00405,3
+Phenazine biosynthesis,3
+02024,7
+Quorum sensing,7
+02025,7
+Biofilm formation - Pseudomonas aeruginosa,7
+_M00846,6
+"Siroheme biosynthesis, glutamate => siroheme",6
+_M00010,1
+"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",1
+00520,17
+Amino sugar and nucleotide sugar metabolism,17
+00550,12
+Peptidoglycan biosynthesis,12
+ 00520 Amino sugar and nucleotide sugar metabolism,7
+PA2977 (murB),1
+09107 Glycan biosynthesis and metabolism,31
+ 00550 Peptidoglycan biosynthesis,12
+ or ,1
+02020,6
+Two-component system,6
+00625,2
+Chloroalkane and chloroalkene degradation,2
+00626,1
+Naphthalene degradation,1
+00900,11
+Terpenoid backbone biosynthesis,11
+00410,8
+beta-Alanine metabolism,8
+00300,10
+Lysine biosynthesis,10
+_M00018,3
+"Threonine biosynthesis, aspartate => homoserine => threonine",3
+00230,32
+Purine metabolism,32
+_M00050,4
+"Guanine ribonucleotide biosynthesis IMP => GDP,GTP",4
+09104 Nucleotide metabolism,10
+ 00230 Purine metabolism,8
+PA3770 (guaB),1
+00332,2
+Carbapenem biosynthesis,2
+00740,4
+Riboflavin metabolism,4
+_M00125,4
+"Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD",4
+_M00533,2
+"Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate",2
+_M00835,2
+"Pyocyanine biosynthesis, chorismate => pyocyanine",2
+00770,12
+Pantothenate and CoA biosynthesis,12
+_M00119,5
+"Pantothenate biosynthesis, valine/L-aspartate => pantothenate",5
+00340,9
+Histidine metabolism,9
+00910,6
+Nitrogen metabolism,6
+_M00019,3
+"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",3
+_M00570,3
+"Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine",3
+00261,2
+Monobactam biosynthesis,2
+_M00016,7
+"Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine",7
+00130,11
+Ubiquinone and other terpenoid-quinone biosynthesis,11
+00521,6
+Streptomycin biosynthesis,6
+00523,4
+Polyketide sugar unit biosynthesis,4
+_M00793,4
+dTDP-L-rhamnose biosynthesis,4
+00360,5
+Phenylalanine metabolism,5
+_M00555,1
+"Betaine biosynthesis, choline => betaine",1
+00540,19
+Lipopolysaccharide biosynthesis,19
+_M00064,4
+ADP-L-glycero-D-manno-heptose biosynthesis,4
+ 00540 Lipopolysaccharide biosynthesis,19
+PA0006,1
+PA0051 (phzH),1
+PA0132,1
+09106 Metabolism of other amino acids,14
+ 00410 beta-Alanine metabolism,2
+_M00568,4
+"Catechol ortho-cleavage, catechol => 3-oxoadipate",4
+ 00650 Butanoate metabolism,3
+PA0266,1
+PA0299 (spuC),1
+_M00007,4
+"Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P",4
+00240,17
+Pyrimidine metabolism,17
+_M00053,6
+"Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP",6
+_M00120,4
+"Coenzyme A biosynthesis, pantothenate => CoA",4
+00920,7
+Sulfur metabolism,7
+_M00338,2
+"Cysteine biosynthesis, homocysteine + serine => cysteine",2
+00450,5
+Selenocompound metabolism,5
+PA0400,1
+ 00450 Selenocompound metabolism,3
+_M00118,2
+"Glutathione biosynthesis, glutamate => glutathione",2
+_M00123,4
+"Biotin biosynthesis, pimeloyl-ACP/CoA => biotin",4
+PA0420 (bioA),1
+PA0432 (sahH),1
+_M00046,1
+"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate",1
+ 00240 Pyrimidine metabolism,3
+PA0441 (dht),1
+ 00770 Pantothenate and CoA biosynthesis,2
+PA0501 (bioF),1
+PA0552 (pgk),1
+00040,2
+Pentose and glucuronate interconversions,2
+_M00023,3
+"Tryptophan biosynthesis, chorismate => tryptophan",3
+00430,2
+Taurine and hypotaurine metabolism,2
+_M00579,2
+"Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate",2
+ 00790 Folate biosynthesis,3
+PA0871 (phhB),1
+PA0895 (aruC),1
+00561,4
+Glycerolipid metabolism,4
+ 09140 Cellular Processes,4
+09145 Cellular community - prokaryotes,4
+ 02024 Quorum sensing,3
+PA1130 (rhlC),1
+ 02025 Biofilm formation - Pseudomonas aeruginosa,4
+01053,3
+Biosynthesis of siderophore group nonribosomal peptides,3
+_M00122,3
+"Cobalamin biosynthesis, cobinamide => cobalamin",3
+00440,2
+Phosphonate and phosphinate metabolism,2
+ 00440 Phosphonate and phosphinate metabolism,1
+PA1310 (phnW),1
+00190,2
+Oxidative phosphorylation,2
+ 00190 Oxidative phosphorylation,1
+PA1321 (cyoE),1
+ 00860 Porphyrin and chlorophyll metabolism,3
+_M00176,2
+"Assimilatory sulfate reduction, sulfate => H2S",2
+_M00616,2
+Sulfate-sulfur assimilation,2
+PA1543 (apt),1
+00471,4
+D-Glutamine and D-glutamate metabolism,4
+PA1642 (selD),1
+00460,4
+Cyanoamino acid metabolism,4
+00500,10
+Starch and sucrose metabolism,10
+PA1736,1
+ 00071 Fatty acid degradation,1
+ 00072 Synthesis and degradation of ketone bodies,1
+09109 Metabolism of terpenoids and polyketides,4
+ 00900 Terpenoid backbone biosynthesis,4
+09111 Xenobiotics biodegradation and metabolism,2
+ 00362 Benzoate degradation,1
+ 09130 Environmental Information Processing,10
+09132 Signal transduction,2
+ 02020 Two-component system,2
+00281,2
+Geraniol degradation,2
+00627,4
+Aminobenzoate degradation,4
+00903,1
+Limonene and pinene degradation,1
+00930,1
+Caprolactam degradation,1
+PA1792,1
+PA1959 (bacA),1
+PA1997,1
+00643,3
+Styrene degradation,3
+ 00350 Tyrosine metabolism,2
+PA2008 (fahA),1
+ 00643 Styrene degradation,1
+00052,3
+Galactose metabolism,3
+ 00500 Starch and sucrose metabolism,3
+PA2165,1
+PA2366,1
+PA2413 (pvdH),1
+PA2416 (treA),1
+00361,2
+Chlorocyclohexane and chlorobenzene degradation,2
+00364,2
+Fluorobenzoate degradation,2
+00623,2
+Toluene degradation,2
+_M00049,4
+"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP",4
+PA2666,1
+00970,6
+Aminoacyl-tRNA biosynthesis,6
+ 09120 Genetic Information Processing,7
+09122 Translation,6
+ 00970 Aminoacyl-tRNA biosynthesis,6
+PA2744 (thrS),1
+PA2828,1
+" 00290 Valine, leucine and isoleucine biosynthesis",2
+ 00220 Arginine biosynthesis,3
+_M00082,6
+"Fatty acid biosynthesis, initiation",6
+PA2968 (fabD),1
+_M00063,4
+CMP-KDO biosynthesis,4
+PA2979 (kdsB),1
+PA2981 (lpxK),1
+PA3108 (purF),1
+PA3134 (gltX),1
+00401,1
+Novobiocin biosynthesis,1
+_M00024,3
+"Phenylalanine biosynthesis, chorismate => phenylalanine",3
+PA3139,1
+ 00360 Phenylalanine metabolism,1
+" 00400 Phenylalanine, tyrosine and tryptophan biosynthesis",1
+ 00401 Novobiocin biosynthesis,1
+PA3148 (wbpI),1
+PA3155 (wbpE),1
+PA3159 (wbpA),1
+_M00052,3
+"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP",3
+PA3167 (serC),1
+ 00750 Vitamin B6 metabolism,1
+_M00008,2
+"Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate",2
+PA3242,1
+00730,6
+Thiamine metabolism,6
+ 00730 Thiamine metabolism,2
+PA3296 (phoA),1
+PA3333 (fabH2),1
+PA3337 (rfaD),1
+_M00529,1
+"Denitrification, nitrate => nitrogen",1
+PA3478 (rhlB),1
+PA3479 (rhlA),1
+PA3482 (metG),1
+_M00844,2
+"Arginine biosynthesis, ornithine => arginine",2
+PA3525 (argG),1
+03018,1
+RNA degradation,1
+PA3635 (eno),1
+"09123 Folding, sorting and degradation",1
+ 03018 RNA degradation,1
+PA3636 (kdsA),1
+PA3643 (lpxB),1
+01503,2
+Cationic antimicrobial peptide (CAMP) resistance,2
+PA3644 (lpxA),1
+ 09160 Human Diseases,9
+09175 Drug resistance: antimicrobial,9
+ 01503 Cationic antimicrobial peptide (CAMP) resistance,2
+PA3646 (lpxD),1
+_M00093,3
+"Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE",3
+PA3652 (uppS),1
+ 00300 Lysine biosynthesis,3
+PA3659,1
+ 00561 Glycerolipid metabolism,2
+PA3673 (plsB),1
+ 00564 Glycerophospholipid metabolism,2
+PA0581,1
+PA3686 (adk),1
+PA3769 (guaA),1
+PA3807 (ndk),1
+_M00021,1
+"Cysteine biosynthesis, serine => cysteine",1
+02010,8
+ABC transporters,8
+09131 Membrane transport,8
+ 02010 ABC transporters,8
+PA3858,1
+PA3987 (leuS),1
+01501,2
+beta-Lactam resistance,2
+PA4003 (pbpA),1
+ 01501 beta-Lactam resistance,2
+PA4043 (ispA),1
+PA4045,1
+PA4110 (ampC),1
+PA4280 (birA),1
+PA4406 (lpxC),1
+00473,2
+D-Alanine metabolism,2
+01502,5
+Vancomycin resistance,5
+ 00473 D-Alanine metabolism,2
+PA4410 (ddlB),1
+ 01502 Vancomycin resistance,5
+PA4201 (ddlA),1
+ 00471 D-Glutamine and D-glutamate metabolism,3
+PA4411 (murC),1
+PA4412 (murG),1
+PA4414 (murD),1
+PA4415 (mraY),1
+PA4416 (murF),1
+PA4417 (murE),1
+PA4425,1
+PA4439 (trpS),1
+PA4450 (murA),1
+PA4457,1
+PA4458,1
+PA4569 (ispB),1
+PA4662 (murI),1
+_M00005,1
+"PRPP biosynthesis, ribose 5P => PRPP",1
+PA4732 (pgi),1
+ 00030 Pentose phosphate pathway,2
+00562,1
+Inositol phosphate metabolism,1
+PA4748 (tpiA),1
+ 00051 Fructose and mannose metabolism,2
+ 00562 Inositol phosphate metabolism,1
+PA4854 (purH),1
+ 00670 One carbon pool by folate,1
+PA4859,1
+PA4860,1
+PA4861,1
+PA4862,1
+PA4947 (amiB),1
+04122,1
+Sulfur relay system,1
+PA4976 (aruH),1
+PA4988 (waaA),1
+PA4996 (rfaE),1
+PA5010 (waaG),1
+PA5011 (waaC),1
+PA5012 (waaF),1
+PA5013 (ilvE),1
+PA5051 (argS),1
+_M00045,3
+"Histidine degradation, histidine => N-formiminoglutamate => glutamate",3
+PA5110 (fbp),1
+00525,2
+Acarbose and validamycin biosynthesis,2
+ 00920 Sulfur metabolism,1
+PA5175 (cysQ),1
+PA5243 (hemB),1
+PA5263 (argH),1
+PA5321 (dut),1
+PA5338 (spoT),1
+ 00130 Ubiquinone and other terpenoid-quinone biosynthesis,1
+PA5358 (ubiA),1
+PA5504,1
+PA5549 (glmS),1
+PA2397 (pvdE),1
+ 00460 Cyanoamino acid metabolism,3
+PA2193 (hcnA),1
+PA2194 (hcnB),1
+PA2195 (hcnC),1
