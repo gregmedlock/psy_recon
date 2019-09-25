@@ -1,3 +1,84 @@
-,cpd00030_c,cpd00063_c,cpd00099_c,cpd00166_c,cpd00254_c,cpd01997_c,cpd03422_c,cpd11416_c,cpd12370_c,cpd15352_c,cpd15432_c,cpd17041_c,cpd17042_c,cpd17043_c,cpd00001_c,cpd00002_c,cpd00003_c,cpd00006_c,cpd00008_c,cpd00009_c,cpd00010_c,cpd00012_c,cpd00015_c,cpd00016_c,cpd00017_c,cpd00023_c,cpd00028_c,cpd00033_c,cpd00034_c,cpd00035_c,cpd00038_c,cpd00039_c,cpd00041_c,cpd00042_c,cpd00048_c,cpd00051_c,cpd00052_c,cpd00053_c,cpd00054_c,cpd00056_c,cpd00058_c,cpd00060_c,cpd00062_c,cpd00065_c,cpd00066_c,cpd00067_c,cpd00069_c,cpd00084_c,cpd00087_c,cpd00107_c,cpd00115_c,cpd00118_c,cpd00119_c,cpd00129_c,cpd00132_c,cpd00149_c,cpd00156_c,cpd00161_c,cpd00201_c,cpd00205_c,cpd00220_c,cpd00241_c,cpd00264_c,cpd00322_c,cpd00345_c,cpd00356_c,cpd00357_c,cpd00557_c,cpd02229_c,cpd10515_c,cpd10516_c,cpd11493_c,cpd15500_c,cpd15533_c,cpd15540_c,cpd15560_c,cpd15695_c,cpd15696_c,cpd15722_c,cpd15723_c,cpd15793_c,cpd15794_c,cpd15795_c
-0,Mn2+,Ca2+,Cl-,Calomide,Mg,Dimethylbenzimidazole,Cobinamide,Biomass,apo-ACP,2-Demethylmenaquinone 8,core oligosaccharide lipid A,Protein biosynthesis,DNA replication,RNA transcription,H2O,ATP,NAD,NADP,ADP,Phosphate,CoA,PPi,FAD,Pyridoxal phosphate,S-Adenosyl-L-methionine,L-Glutamate,Heme,Glycine,Zn2+,L-Alanine,GTP,L-Lysine,L-Aspartate,GSH,Sulfate,L-Arginine,CTP,L-Glutamine,L-Serine,TPP,Cu2+,L-Methionine,UTP,L-Tryptophan,L-Phenylalanine,H+,L-Tyrosine,L-Cysteine,Tetrahydrofolate,L-Leucine,dATP,Putrescine,L-Histidine,L-Proline,L-Asparagine,Co2+,L-Valine,L-Threonine,10-Formyltetrahydrofolate,K+,Riboflavin,dGTP,Spermidine,L-Isoleucine,5-Methyltetrahydrofolate,dCTP,TTP,Siroheme,Bactoprenyl diphosphate,Fe2+,fe3,ACP,Menaquinone 8,phosphatidylethanolamine dioctadecanoyl,Phosphatidylglycerol dioctadecanoyl,Ubiquinone-8,Diisoheptadecanoylphosphatidylethanolamine,Dianteisoheptadecanoylphosphatidylethanolamine,Diisoheptadecanoylphosphatidylglycerol,Dianteisoheptadecanoylphosphatidylglycerol,Stearoylcardiolipin (B. subtilis),Isoheptadecanoylcardiolipin (B. subtilis),Anteisoheptadecanoylcardiolipin (B. subtilis)
-1,-0.00309646685192537,-0.00309646685192537,-0.00309646685192537,-0.00309646685192537,-0.00309646685192537,0.00309646685192537,0.00309646685192537,1,0.00309646685192537,-0.00309646685192537,-0.0250105977108944,-1,-1,-1,-35.5403092430435,-40.1101757365074,-0.00309646685192537,-0.00309646685192537,40,39.9969035331481,-0.00309646685192537,0.484595268549648,-0.00309646685192537,-0.00309646685192537,-0.00309646685192537,-0.219088153012743,-0.00309646685192537,-0.509869786991038,-0.00309646685192537,-0.427934380173264,-0.135406821203723,-0.285438020490179,-0.200830806928348,-0.00309646685192537,-0.00309646685192537,-0.246696822701341,-0.0841036156544863,-0.219088153012743,-0.179456352975885,-0.00309646685192537,-0.00309646685192537,-0.127801422590767,-0.0908319049068452,-0.0472019191450218,-0.154519490031345,40,-0.120676604606612,-0.0761464922056484,-0.00309646685192537,-0.375388847540127,-0.0133600941727996,-0.00309646685192537,-0.0792636000737159,-0.184354665339991,-0.200830806928348,-0.00309646685192537,-0.352233189091625,-0.211072732780569,-0.00309646685192537,-0.00309646685192537,-0.00309646685192537,-0.0186785009658086,-0.00309646685192537,-0.241798510337235,-0.00309646685192537,-0.0186785009658086,-0.0133600941727996,-0.00309646685192537,-0.0250105977108944,-0.00309646685192537,-0.00309646685192537,-0.00309646685192537,-0.00309646685192537,-0.0106480421341882,-0.0106480421341882,-0.00309646685192537,-0.0106480421341882,-0.0106480421341882,-0.0106480421341882,-0.0106480421341882,-0.0106480421341882,-0.0106480421341882,-0.0106480421341882
+id,name,coefficient
+cpd00002_c,ATP,-40.11017574
+cpd00001_c,H2O,-35.54030924
+cpd17041_c,Protein biosynthesis,-1
+cpd17042_c,DNA replication,-1
+cpd17043_c,RNA transcription,-1
+cpd00033_c,Glycine,-0.509869787
+cpd00035_c,L-Alanine,-0.42793438
+cpd00107_c,L-Leucine,-0.375388848
+cpd00156_c,L-Valine,-0.352233189
+cpd00039_c,L-Lysine,-0.28543802
+cpd00051_c,L-Arginine,-0.246696823
+cpd00322_c,L-Isoleucine,-0.24179851
+cpd00023_c,L-Glutamate,-0.219088153
+cpd00053_c,L-Glutamine,-0.219088153
+cpd00161_c,L-Threonine,-0.211072733
+cpd00041_c,L-Aspartate,-0.200830807
+cpd00132_c,L-Asparagine,-0.200830807
+cpd00129_c,L-Proline,-0.184354665
+cpd00054_c,L-Serine,-0.179456353
+cpd00066_c,L-Phenylalanine,-0.15451949
+cpd00038_c,GTP,-0.135406821
+cpd00060_c,L-Methionine,-0.127801423
+cpd00069_c,L-Tyrosine,-0.120676605
+cpd00062_c,UTP,-0.090831905
+cpd00052_c,CTP,-0.084103616
+cpd00119_c,L-Histidine,-0.0792636
+cpd00084_c,L-Cysteine,-0.076146492
+cpd00065_c,L-Tryptophan,-0.047201919
+cpd15432_c,core oligosaccharide lipid A,-0.025010598
+cpd02229_c,Bactoprenyl diphosphate,-0.025010598
+cpd00241_c,dGTP,-0.018678501
+cpd00356_c,dCTP,-0.018678501
+cpd00115_c,dATP,-0.013360094
+cpd00357_c,TTP,-0.013360094
+cpd15533_c,phosphatidylethanolamine dioctadecanoyl,-0.010648042
+cpd15540_c,Phosphatidylglycerol dioctadecanoyl,-0.010648042
+cpd15695_c,Diisoheptadecanoylphosphatidylethanolamine,-0.010648042
+cpd15696_c,Dianteisoheptadecanoylphosphatidylethanolamine,-0.010648042
+cpd15722_c,Diisoheptadecanoylphosphatidylglycerol,-0.010648042
+cpd15723_c,Dianteisoheptadecanoylphosphatidylglycerol,-0.010648042
+cpd15793_c,Stearoylcardiolipin (B. subtilis),-0.010648042
+cpd15794_c,Isoheptadecanoylcardiolipin (B. subtilis),-0.010648042
+cpd15795_c,Anteisoheptadecanoylcardiolipin (B. subtilis),-0.010648042
+cpd00030_c,Mn2+,-0.003096467
+cpd00063_c,Ca2+,-0.003096467
+cpd00099_c,Cl-,-0.003096467
+cpd00166_c,Calomide,-0.003096467
+cpd00254_c,Mg,-0.003096467
+cpd15352_c,2-Demethylmenaquinone 8,-0.003096467
+cpd00003_c,NAD,-0.003096467
+cpd00006_c,NADP,-0.003096467
+cpd00010_c,CoA,-0.003096467
+cpd00015_c,FAD,-0.003096467
+cpd00016_c,Pyridoxal phosphate,-0.003096467
+cpd00017_c,S-Adenosyl-L-methionine,-0.003096467
+cpd00028_c,Heme,-0.003096467
+cpd00034_c,Zn2+,-0.003096467
+cpd00042_c,GSH,-0.003096467
+cpd00048_c,Sulfate,-0.003096467
+cpd00056_c,TPP,-0.003096467
+cpd00058_c,Cu2+,-0.003096467
+cpd00087_c,Tetrahydrofolate,-0.003096467
+cpd00118_c,Putrescine,-0.003096467
+cpd00149_c,Co2+,-0.003096467
+cpd00201_c,10-Formyltetrahydrofolate,-0.003096467
+cpd00205_c,K+,-0.003096467
+cpd00220_c,Riboflavin,-0.003096467
+cpd00264_c,Spermidine,-0.003096467
+cpd00345_c,5-Methyltetrahydrofolate,-0.003096467
+cpd00557_c,Siroheme,-0.003096467
+cpd10515_c,Fe2+,-0.003096467
+cpd10516_c,fe3,-0.003096467
+cpd11493_c,ACP,-0.003096467
+cpd15500_c,Menaquinone 8,-0.003096467
+cpd15560_c,Ubiquinone-8,-0.003096467
+cpd01997_c,Dimethylbenzimidazole,0.003096467
+cpd03422_c,Cobinamide,0.003096467
+cpd12370_c,apo-ACP,0.003096467
+cpd00012_c,PPi,0.484595269
+cpd11416_c,Biomass,1
+cpd00009_c,Phosphate,39.99690353
+cpd00008_c,ADP,40
+cpd00067_c,H+,40
