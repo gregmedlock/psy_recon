@@ -1,0 +1,55 @@
+name,Genes,Category
+['2-Oxocarboxylic acid metabolism'],4,Carbohydrate Metabolism
+['ABC transporters\n'],2,Transport
+['Acarbose and validamycin biosynthesis'],2,Antibiotic Metabolism
+['Arginine biosynthesis'],4,Amino Acid Metabolism
+['Benzoate degradation'],1,Carbohydrate Metabolism
+['beta-Alanine metabolism'],1,Amino Acid Metabolism
+['Biosynthesis of amino acids\n'],17,Amino Acid Metabolism
+['Biosynthesis of antibiotics'],22,Antibiotic Metabolism
+['Biosynthesis of antibiotics\n'],9,Antibiotic Metabolism
+['Biosynthesis of secondary metabolites'],27,Secondary Metabolite Metabolism
+['Biosynthesis of secondary metabolites\n'],4,Secondary Metabolite Metabolism
+['Biotin metabolism'],4,Cofactor Metabolism
+['Butanoate metabolism'],1,Carbohydrate Metabolism
+['Caprolactam degradation'],1,Antibiotic Metabolism
+['Carbon metabolism'],1,Carbon Metabolism
+['Carbon metabolism\n'],2,Carbon Metabolism
+['Cysteine and methionine metabolism'],5,Amino Acid Metabolism
+['Fatty acid biosynthesis'],4,Fatty Acid Metabolism
+['Fatty acid degradation'],1,Fatty Acid Metabolism
+['Fatty acid metabolism\n'],5,Fatty Acid Metabolism
+['Folate biosynthesis'],3,Cofactor Metabolism
+['Fructose and mannose metabolism'],1,Carbohydrate Metabolism
+['Geraniol degradation'],1,Plant Metabolite Metabolism
+['Glutathione metabolism'],2,Amino Acid Metabolism
+['Glycerophospholipid metabolism'],1,Glycerolipid Metabolism
+"['Glycine, serine and threonine metabolism']",3,Amino Acid Metabolism
+['Glycolysis / Gluconeogenesis'],1,Carbohydrate Metabolism
+['Limonene and pinene degradation'],1,Plant Metabolite Metabolism
+['Lipopolysaccharide biosynthesis'],2,Virulence
+['Lysine biosynthesis'],2,Amino Acid Metabolism
+['Lysine degradation'],1,Amino Acid Metabolism
+['Methane metabolism'],2,Carbon Metabolism
+['Nicotinate and nicotinamide metabolism'],2,Cofactor Metabolism
+['Novobiocin biosynthesis'],1,Antibiotic Metabolism
+['One carbon pool by folate'],2,Cofactor Metabolism
+['Pantothenate and CoA biosynthesis'],4,Cofactor Metabolism
+['Pentose phosphate pathway'],1,Carbohydrate Metabolism
+['Phenylalanine metabolism'],1,Amino Acid Metabolism
+"['Phenylalanine, tyrosine and tryptophan biosynthesis']",11,Amino Acid Metabolism
+['Polyketide sugar unit biosynthesis'],4,Carbohydrate Metabolism
+['Porphyrin and chlorophyll metabolism'],2,Aromatic Compound Metabolism
+['Propanoate metabolism'],2,Carbohydrate Metabolism
+['Purine metabolism'],6,Nucleotide Metabolism
+['Pyrimidine metabolism'],3,Nucleotide Metabolism
+['Pyruvate metabolism'],1,Carbohydrate Metabolism
+['Quorum sensing\n'],1,Interaction with the Environment
+['Riboflavin metabolism'],3,Cofactor Metabolism
+['Streptomycin biosynthesis'],4,Antibiotic Metabolism
+['Sulfur metabolism'],2,Sulfur Metabolism
+['Taurine and hypotaurine metabolism'],1,Sulfur Metabolism
+['Tryptophan metabolism'],1,Amino Acid Metabolism
+['Tyrosine metabolism'],1,Amino Acid Metabolism
+"['Valine, leucine and isoleucine biosynthesis']",1,Amino Acid Metabolism
+"['Valine, leucine and isoleucine degradation']",2,Amino Acid Metabolism
