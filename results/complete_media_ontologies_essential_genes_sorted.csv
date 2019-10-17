@@ -1,0 +1,42 @@
+['ABC transporters\n'],2,Transport
+['Acarbose and validamycin biosynthesis'],2,Antibiotic Metabolism
+['Benzoate degradation'],1,Carbohydrate Metabolism
+['beta-Alanine metabolism'],1,Amino Acid Metabolism
+['Biosynthesis of amino acids\n'],10,Amino Acid Metabolism
+['Biosynthesis of antibiotics'],14,Antibiotic Metabolism
+['Biosynthesis of antibiotics\n'],8,Antibiotic Metabolism
+['Biosynthesis of secondary metabolites'],18,Secondary Metabolite Metabolism
+['Biosynthesis of secondary metabolites\n'],4,Secondary Metabolite Metabolism
+['Biotin metabolism'],4,Cofactor Metabolism
+['Butanoate metabolism'],1,Carbohydrate Metabolism
+['Caprolactam degradation'],1,Antibiotic Metabolism
+['Carbon metabolism'],1,Carbon Metabolism
+['Cysteine and methionine metabolism'],1,Amino Acid Metabolism
+['Fatty acid biosynthesis'],4,Fatty Acid Metabolism
+['Fatty acid degradation'],1,Fatty Acid Metabolism
+['Fatty acid metabolism\n'],5,Fatty Acid Metabolism
+['Folate biosynthesis'],3,Cofactor Metabolism
+['Geraniol degradation'],1,Plant Metabolite Metabolism
+['Glycerophospholipid metabolism'],1,Glycerolipid Metabolism
+"['Glycine, serine and threonine metabolism']",2,Amino Acid Metabolism
+['Limonene and pinene degradation'],1,Plant Metabolite Metabolism
+['Lipopolysaccharide biosynthesis'],2,Virulence
+['Lysine degradation'],1,Amino Acid Metabolism
+['Nicotinate and nicotinamide metabolism'],2,Cofactor Metabolism
+['Novobiocin biosynthesis'],1,Antibiotic Metabolism
+['One carbon pool by folate'],1,Cofactor Metabolism
+['Pantothenate and CoA biosynthesis'],3,Cofactor Metabolism
+['Phenylalanine metabolism'],1,Amino Acid Metabolism
+"['Phenylalanine, tyrosine and tryptophan biosynthesis']",10,Amino Acid Metabolism
+['Polyketide sugar unit biosynthesis'],4,Carbohydrate Metabolism
+['Porphyrin and chlorophyll metabolism'],2,Aromatic Compound Metabolism
+['Propanoate metabolism'],1,Carbon Metabolism
+['Purine metabolism'],5,Nucleotide Metabolism
+['Pyrimidine metabolism'],3,Nucleotide Metabolism
+['Quorum sensing\n'],1,Interaction with the environment
+['Riboflavin metabolism'],3,Cofactor Metabolism
+['Streptomycin biosynthesis'],4,Antibiotic Metabolism
+['Sulfur metabolism'],2,Sulfur Metabolism
+['Tryptophan metabolism'],1,Amino Acid Metabolism
+['Tyrosine metabolism'],1,Amino Acid Metabolism
+"['Valine, leucine and isoleucine degradation']",1,Amino Acid Metabolism
