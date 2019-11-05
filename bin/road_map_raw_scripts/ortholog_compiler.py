@@ -1,0 +1,78 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Sep 15 13:18:14 2018
+
+@author: pjt7wd
+"""
+
+import os
+import pandas as pd
+import cobra
+from cobra import Reaction, Metabolite, Gene
+
+#read the two library files for the lists, as well as the reaction list to call reactions
+supp_pao1 = pd.read_excel("/Users/pjt7wd/Desktop/Psy_modeling/psy_recon/data/SupplementaryData4_mPAO1.xlsx")
+orthologs = pd.read_csv('/Users/pjt7wd/Desktop/Psy_modeling/psy_recon/data/PA01_PSY_orthologs.csv')
+rxn_list = pd.read_csv('/Users/pjt7wd/Desktop/PST_updates_list.csv')
+#print (rxn_list)
+
+#create reaction list to call in the supp
+rxns = []
+for x in range(0,len(rxn_list)):
+    reaction_row = rxn_list.iloc[x,]
+    ids = reaction_row['0']
+    rxns.append(ids)
+#print (rxns)
+
+#now we have the reactions extracted into a list to compare with the pa01 library, which must be similarly compared
+#when comparing the reaction, create a dictionary with the reaction id as the key and the genes as the value
+pao1_genes = {}
+
+#extract the reactions from pao1 and the corresponding genes to create a dictionary
+for x in range(0,len(supp_pao1)):
+    reaction_row = supp_pao1.iloc[x,]
+    if "rxn" in reaction_row["Abbreviation"]:
+        rxn_abb = reaction_row['Abbreviation'] + "_c0"
+        rxn_genes = reaction_row['Genes']
+#    print (rxn_genes)
+#    print (rxn_abb)
+    #populate the dictionary with the keys (rxn abbreviations) and values (gene ids)
+    pao1_genes[rxn_abb] = rxn_genes
+#    print (pao1_genes)    
+
+#now compare the dictionary keys (rxns) to the list of rxns in the PST update list of rxns, rxn_list
+matching_rxns = {}
+for k in rxns:
+    if k in pao1_genes:
+#        print (k, pao1_genes[k])
+        str_pao1_genes = str(pao1_genes[k])
+        split_genes = str.split(str_pao1_genes, ' ')
+#        print (split_genes)
+        matching_rxns[k] = split_genes        
+        print (matching_rxns)
+#the plurality issue has been addresed. each of the values in the dictionary is now a list, so this is a dictionary of lists
+ortholog_dict = {}
+print (orthologs)
+for x in range(0, len(orthologs)):
+    pair_row = orthologs.iloc[x,]
+    query = pair_row['Locus Tag (Query)']
+    result = pair_row['Locus Tag (Hit)']
+    ortholog_dict[query]=result
+    print (ortholog_dict)
+#othologs have been mapped into the dictionary
+    #the form of the dictionary is query:hit
+plural_gene_dict = {}
+for key, value in matching_rxns.items():
+    matched_plural_genes = []
+    for gene in matching_rxns[key]:
+        if gene in ortholog_dict:
+            matched_plural_genes.append(ortholog_dict[gene])            
+    plural_gene_dict[key] = matched_plural_genes
+#            print (key, gene, ortholog_dict[gene])
+   #     else:
+    #        print ('no')
+print(plural_gene_dict)
+all_genes = pd.DataFrame.from_dict(plural_gene_dict, orient = 'index')
+print (all_genes)
+all_genes.to_csv('/Users/pjt7wd/Desktop/all_gene_matches_PAO1_PSPTO')

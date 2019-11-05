@@ -1,10 +1,10 @@
 #import kegg rest api
 library(KEGGREST)
 library(tidyverse)
-filevar <- 'val_100_e3'
+filevar <- 'all_genes_100_e3'
 
 filesuf <- 'uniquefor_r.csv'
-filename <-"val_100_e3uniquefor_r.csv"
+filename <-"all_genes_100_e3uniquefor_r.csv"
 filename <- paste(filevar, filesuf, sep = "")
 table <-  read.csv(file.choose())
 
