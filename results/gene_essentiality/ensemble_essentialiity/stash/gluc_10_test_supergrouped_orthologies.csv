@@ -1,0 +1,65 @@
+,Pathway,Gene,supergroup,,,,,,,,AA,78,,AA,33,78
+3,"Alanine, aspartate and glutamate metabolism - Pseudomonas syringae pv. tomato DC3000",4,Amino Acid Metabolism,,,,,AA,78,,AN,54,,AN,45,54
+6,Arginine and proline metabolism - Pseudomonas syringae pv. tomato DC3000,3,Amino Acid Metabolism,,,,,AN,54,,Carbo,7,,Carbo,5,7
+7,Arginine biosynthesis - Pseudomonas syringae pv. tomato DC3000,4,Amino Acid Metabolism,,,,,Carbo,7,,Co,36,,Co,37,36
+9,Biosynthesis of amino acids - Pseudomonas syringae pv. tomato DC3000,25,Amino Acid Metabolism,,,,,Co,36,,Core,1,,Core,1,1
+17,Cysteine and methionine metabolism - Pseudomonas syringae pv. tomato DC3000,6,Amino Acid Metabolism,,,,,Core,1,,Env,1,,Env,1,1
+24,Glutathione metabolism - Pseudomonas syringae pv. tomato DC3000,4,Amino Acid Metabolism,,,,,FA,27,,FA,27,,FA,22,27
+27,"Glycine, serine and threonine metabolism - Pseudomonas syringae pv. tomato DC3000",2,Amino Acid Metabolism,,,,,GL,6,,GL,6,,GL,6,6
+28,Histidine metabolism - Pseudomonas syringae pv. tomato DC3000,6,Amino Acid Metabolism,,,,,Env,1,,MAC,27,,MAC,28,27
+31,Lysine biosynthesis - Pseudomonas syringae pv. tomato DC3000,1,Amino Acid Metabolism,,,,,MDE,11,,MDE,11,,MDE,11,11
+32,Lysine degradation - Pseudomonas syringae pv. tomato DC3000,1,Amino Acid Metabolism,,,,,MAC,27,,MSM,80,,MSM,62,80
+41,Phenylalanine metabolism - Pseudomonas syringae pv. tomato DC3000,1,Amino Acid Metabolism,,,,,MSM,80,,NAM,25,,NAM,37,25
+42,"Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudomonas syringae pv. tomato DC3000",12,Amino Acid Metabolism,,,,,NAM,25,,NTM,26,,NTM,18,26
+59,Tyrosine metabolism - Pseudomonas syringae pv. tomato DC3000,2,Amino Acid Metabolism,,,,,NTM,26,,Pro,49,,Pro,57,49
+61,"Valine, leucine and isoleucine biosynthesis - Pseudomonas syringae pv. tomato DC3000",3,Amino Acid Metabolism,,,,,Pro,49,,Regulation,1,,Regulation,2,1
+62,"Valine, leucine and isoleucine degradation - Pseudomonas syringae pv. tomato DC3000",3,Amino Acid Metabolism,,,,,Regulation,1,,Sulfur Metabolism,3,,Sulfur Metabolism,1,3
+64,beta-Alanine metabolism - Pseudomonas syringae pv. tomato DC3000,1,Amino Acid Metabolism,,,,,Sulfur Metabolism,3,,Transport,5,,Transport,3,5
+2,Acarbose and validamycin biosynthesis - Pseudomonas syringae pv. tomato DC3000,2,Antibiotic Metabolism,,,,,Transport,5,,tRNA Synthesis,22,,tRNA Synthesis,36,22
+10,Biosynthesis of antibiotics - Pseudomonas syringae pv. tomato DC3000,46,Antibiotic Metabolism,,,,,tRNA Synthesis,22,,Virulence,17,,Virulence,17,17
+16,Cationic antimicrobial peptide (CAMP) resistance - Pseudomonas syringae pv. tomato DC3000,1,Antibiotic Metabolism,,,,,Virulence,17,,,,,,,
+37,Novobiocin biosynthesis - Pseudomonas syringae pv. tomato DC3000,1,Antibiotic Metabolism,,,,,,,,,,,,,
+54,Streptomycin biosynthesis - Pseudomonas syringae pv. tomato DC3000,4,Antibiotic Metabolism,,,,,,,,,,,,,
+15,C5-Branched dibasic acid metabolism - Pseudomonas syringae pv. tomato DC3000,2,Carbohydrate Metabolism,,,,,,,,,,,,,
+23,Galactose metabolism - Pseudomonas syringae pv. tomato DC3000,1,Carbohydrate Metabolism,,,,,,,,,,,,,
+43,Polyketide sugar unit biosynthesis - Pseudomonas syringae pv. tomato DC3000,4,Carbohydrate Metabolism,,,,,,,,,,,,,
+12,Biosynthesis of siderophore group nonribosomal peptides - Pseudomonas syringae pv. tomato DC3000,2,Cofactor Metabolism,,,,,,,,,,,,,
+13,Biotin metabolism - Pseudomonas syringae pv. tomato DC3000,5,Cofactor Metabolism,,,,,,,,,,,,,
+22,Folate biosynthesis - Pseudomonas syringae pv. tomato DC3000,6,Cofactor Metabolism,,,,,,,,,,,,,
+36,Nicotinate and nicotinamide metabolism - Pseudomonas syringae pv. tomato DC3000,6,Cofactor Metabolism,,,,,,,,,,,,,
+39,One carbon pool by folate - Pseudomonas syringae pv. tomato DC3000,3,Cofactor Metabolism,,,,,,,,,,,,,
+51,Riboflavin metabolism - Pseudomonas syringae pv. tomato DC3000,4,Cofactor Metabolism,,,,,,,,,,,,,
+57,Thiamine metabolism - Pseudomonas syringae pv. tomato DC3000,5,Cofactor Metabolism,,,,,,,,,,,,,
+60,Ubiquinone and other terpenoid-quinone biosynthesis - Pseudomonas syringae pv. tomato DC3000,4,Cofactor Metabolism,,,,,,,,,,,,,
+63,Vitamin B6 metabolism - Pseudomonas syringae pv. tomato DC3000,1,Cofactor Metabolism,,,,,,,,,,,,,
+47,Pyruvate metabolism - Pseudomonas syringae pv. tomato DC3000,1,Core Metabolism,,,,,,,,,,,,,
+0,2-Oxocarboxylic acid metabolism - Pseudomonas syringae pv. tomato DC3000,6,Fatty Acid Metabolism,,,,,,,,,,,,,
+20,Fatty acid biosynthesis - Pseudomonas syringae pv. tomato DC3000,6,Fatty Acid Metabolism,,,,,,,,,,,,,
+21,Fatty acid metabolism - Pseudomonas syringae pv. tomato DC3000,6,Fatty Acid Metabolism,,,,,,,,,,,,,
+40,Pantothenate and CoA biosynthesis - Pseudomonas syringae pv. tomato DC3000,9,Fatty Acid Metabolism,,,,,,,,,,,,,
+25,Glycerolipid metabolism - Pseudomonas syringae pv. tomato DC3000,1,Glycerolipid Metabolism,,,,,,,,,,,,,
+26,Glycerophospholipid metabolism - Pseudomonas syringae pv. tomato DC3000,5,Glycerolipid Metabolism,,,,,,,,,,,,,
+48,Quorum sensing - Pseudomonas syringae pv. tomato DC3000,1,Interaction with the Environment,,,,,,,,,,,,,
+34,Microbial metabolism in diverse environments - Pseudomonas syringae pv. tomato DC3000,11,Metabolism in Diverse Environments,,,,,,,,,,,,,
+8,Benzoate degradation - Pseudomonas syringae pv. tomato DC3000,1,Metabolism of Aromatic Compounds,,,,,,,,,,,,,
+19,Degradation of aromatic compounds - Pseudomonas syringae pv. tomato DC3000,1,Metabolism of Aromatic Compounds,,,,,,,,,,,,,
+44,Porphyrin and chlorophyll metabolism - Pseudomonas syringae pv. tomato DC3000,25,Metabolism of Aromatic Compounds,,,,,,,,,,,,,
+11,Biosynthesis of secondary metabolites - Pseudomonas syringae pv. tomato DC3000,67,Metabolism of Secondary Metabolites,,,,,,,,,,,,,
+14,Butanoate metabolism - Pseudomonas syringae pv. tomato DC3000,3,Metabolism of Secondary Metabolites,,,,,,,,,,,,,
+53,Selenocompound metabolism - Pseudomonas syringae pv. tomato DC3000,1,Metabolism of Secondary Metabolites,,,,,,,,,,,,,
+56,Terpenoid backbone biosynthesis - Pseudomonas syringae pv. tomato DC3000,9,Metabolism of Secondary Metabolites,,,,,,,,,,,,,
+18,DNA replication - Pseudomonas syringae pv. tomato DC3000,6,Nucleic Acid Maintenance,,,,,,,,,,,,,
+29,Homologous recombination - Pseudomonas syringae pv. tomato DC3000,7,Nucleic Acid Maintenance,,,,,,,,,,,,,
+35,Mismatch repair - Pseudomonas syringae pv. tomato DC3000,7,Nucleic Acid Maintenance,,,,,,,,,,,,,
+38,Nucleotide excision repair - Pseudomonas syringae pv. tomato DC3000,1,Nucleic Acid Maintenance,,,,,,,,,,,,,
+49,RNA degradation - Pseudomonas syringae pv. tomato DC3000,1,Nucleic Acid Maintenance,,,,,,,,,,,,,
+50,RNA polymerase - Pseudomonas syringae pv. tomato DC3000,3,Nucleic Acid Maintenance,,,,,,,,,,,,,
+4,Amino sugar and nucleotide sugar metabolism - Pseudomonas syringae pv. tomato DC3000,4,Nucleotide Metabolism,,,,,,,,,,,,,
+45,Purine metabolism - Pseudomonas syringae pv. tomato DC3000,10,Nucleotide Metabolism,,,,,,,,,,,,,
+46,Pyrimidine metabolism - Pseudomonas syringae pv. tomato DC3000,12,Nucleotide Metabolism,,,,,,,,,,,,,
+52,Ribosome - Pseudomonas syringae pv. tomato DC3000,49,Protein Biosynthesis,,,,,,,,,,,,,
+58,Two-component system - Pseudomonas syringae pv. tomato DC3000,1,Regulation,,,,,,,,,,,,,
+55,Sulfur metabolism - Pseudomonas syringae pv. tomato DC3000,3,Sulfur Metabolism,,,,,,,,,,,,,
+1,ABC transporters - Pseudomonas syringae pv. tomato DC3000,5,Transport,,,,,,,,,,,,,
+5,Aminoacyl-tRNA biosynthesis - Pseudomonas syringae pv. tomato DC3000,22,tRNA Synthesis,,,,,,,,,,,,,
+30,Lipopolysaccharide biosynthesis - Pseudomonas syringae pv. tomato DC3000,17,Virulence,,,,,,,,,,,,,
