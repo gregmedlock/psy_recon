@@ -389,10 +389,3 @@ rxn05303_c,TRANS-RXNBWI-115637.ce.maizeexp.ARG_ARG,cpd00051_e + cpd00067_e <=> c
 rxn00245_c,"(R,R)-tartrate hydro-lyase (oxaloacetate-forming)",cpd00666_c --> cpd00001_c + cpd00032_c,(PSPTO_2662),0.0,1000.0
 rxn01934_c,(S)-2-Hydroxy-2-(4-hydroxyphenyl)acetate:oxygen 1-oxidoreductase,cpd00007_c + cpd00067_c + cpd02043_c <=> cpd00011_c + cpd00025_c + cpd00484_c,(PSPTO_2424 or PSPTO_2434 or PSPTO_3287 or PSPTO_3460 or PSPTO_3920),-1000.0,1000.0
 rxn01827_c,"4-Hydroxyphenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)",cpd00007_c + cpd00868_c <=> cpd00011_c + cpd00426_c,(PSPTO_2346),-1000.0,1000.0
-rxn03146_c,UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetylglucosamine amidohydrolase,cpd00001_c + cpd02886_c <=> cpd00029_c + cpd03584_c,PSPTO_4402,-1000.0,1000.0
-rxn03130_c,"UDP-2,3-bis[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine 2,3-bis[(3R)-3-hydroxymyristoyl]-beta-D-glucosaminyl 1-phosphate phosphohydrolase",cpd00001_c + cpd02835_c --> 2.0 cpd00067_c + cpd00091_c + cpd02930_c,PSPTO_3745,0.0,1000.0
-rxn03159_c,"UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine:2,3-bis-(3-hydroxytetradecanoyl)-alpha-D-glucosaminyl-1-phosphate 2,3-bis(3-hydroxytetradecanoyl)-glucosaminyltransferase",cpd02835_c + cpd02930_c <=> cpd00014_c + cpd03002_c,PSPTO_1547,-1000.0,1000.0
-rxn03181_c,"ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-D-1,6-glucosaminyl-alpha-phosphate 4-O'-phosphotransferase",cpd00002_c + cpd03002_c <=> cpd00008_c + cpd00067_c + cpd02993_c,PSPTO_1547,-1000.0,1000.0
-rxn03182_c,CMP-3-deoxy-D-manno-oct-2-ulosonate:lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase,cpd02546_c + cpd02993_c <=> cpd00046_c + cpd00067_c + cpd03585_c,PSPTO_4978,-1000.0,1000.0
-rxn03439_c,CMP-3-deoxy-D-manno-oct-2-ulosonate:(KDO)-lipid IVA 3-deoxy-D-manno-oct-2-ulosonate transferase,cpd02546_c + cpd03585_c <=> cpd00046_c + cpd00067_c + cpd03586_c,PSPTO_4978,-1000.0,1000.0
-rxn06848_c,R05075,cpd03736_c + cpd11466_c --> cpd03587_c + cpd11493_c,PSPTO_3871,0.0,1000.0

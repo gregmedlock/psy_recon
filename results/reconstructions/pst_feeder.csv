@@ -1,149 +1,149 @@
-rxn00020_c,cellobiose glucohydrolase,cpd00001_c + cpd00158_c --> 2.0 cpd00190_c,PSPTO_4290,0.0,1000.0
-rxn00025_c,"beta-Carotene:oxygen 15,15'-oxidoreductase (bond-cleaving)",cpd00007_c + cpd01420_c <=> 2.0 cpd00304_c,PSPTO_4235,-1000.0,1000.0
-rxn00029_c,5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming),2.0 cpd00338_c --> 2.0 cpd00001_c + cpd00067_c + cpd00689_c,PSPTO_5251,0.0,1000.0
-rxn00048_c,"6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase",cpd00067_c + 2.0 cpd02656_c --> cpd00220_c + cpd02882_c,PSPTO_0691,0.0,1000.0
-rxn00060_c,porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing),cpd00001_c + 4.0 cpd00689_c --> 4.0 cpd00013_c + cpd00755_c,PSPTO_0128,0.0,1000.0
-rxn00147_c,"ATP:pyruvate,water phosphotransferase",cpd00001_c + cpd00002_c + cpd00020_c --> cpd00009_c + cpd00018_c + cpd00061_c + 3.0 cpd00067_c,PSPTO_2292,0.0,1000.0
-rxn00148_c,ATP:pyruvate 2-O-phosphotransferase,cpd00002_c + cpd00020_c <=> cpd00008_c + cpd00061_c + cpd00067_c,PSPTO_4337,-1000.0,1000.0
-rxn00149_c,pyruvaldehyde:NAD+ oxidoreductase,cpd00001_c + cpd00003_c + cpd00428_c <=> cpd00004_c + cpd00020_c + 2.0 cpd00067_c,PSPTO_2680,-1000.0,1000.0
-rxn00159_c,(S)-malate:NAD+ oxidoreductase (decarboxylating),cpd00003_c + cpd00130_c --> cpd00004_c + cpd00011_c + cpd00020_c,PSPTO_3924,0.0,1000.0
-rxn00161_c,(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating),cpd00006_c + cpd00130_c --> cpd00005_c + cpd00011_c + cpd00020_c,PSPTO_5134,0.0,1000.0
-rxn00165_c,L-serine ammonia-lyase,cpd00054_c --> cpd00013_c + cpd00020_c,(PSPTO_1886 and PSPTO_1886),0.0,1000.0
-rxn00179_c,ATP:L-glutamate 5-phosphotransferase,cpd00002_c + cpd00023_c <=> cpd00008_c + cpd02097_c,PSPTO_0800,-1000.0,1000.0
-rxn00182_c,L-glutamate:NAD+ oxidoreductase (deaminating),cpd00001_c + cpd00003_c + cpd00023_c <=> cpd00004_c + cpd00013_c + cpd00024_c + cpd00067_c,PSPTO_3757,-1000.0,1000.0
-rxn00183_c,L-Glutamate 5-semialdehyde:NAD+ oxidoreductase,cpd00001_c + cpd00003_c + cpd00858_c --> cpd00004_c + cpd00023_c + 2.0 cpd00067_c,(PSPTO_1881 or PSPTO_3644),0.0,1000.0
-rxn00187_c,L-Glutamate:ammonia ligase (ADP-forming),cpd00002_c + cpd00013_c + cpd00023_c --> cpd00008_c + cpd00009_c + cpd00053_c + cpd00067_c,PSPTO_0359,0.0,1000.0
-rxn00189_c,L-Glutamine amidohydrolase,cpd00001_c + cpd00053_c --> cpd00013_c + cpd00023_c,PSPTO_2488,0.0,1000.0
-rxn00192_c,acetyl-CoA:L-glutamate N-acetyltransferase,cpd00022_c + cpd00023_c --> cpd00010_c + cpd00067_c + cpd00477_c,PSTPO_0324,0.0,1000.0
-rxn00193_c,glutamate racemase,cpd00023_c <=> cpd00186_c,PSPTO_1112,-1000.0,1000.0
-rxn00224_c,protoheme ferro-lyase (protoporphyrin-forming),cpd01476_c + cpd10515_c <=> cpd00028_c + 2.0 cpd00067_c,PSPTO_1128,-1000.0,1000.0
-rxn00256_c,acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing),cpd00001_c + cpd00022_c + cpd00032_c --> cpd00010_c + cpd00067_c + cpd00137_c,PSPTO_2194,0.0,1000.0
-rxn00260_c,L-Aspartate:2-oxoglutarate aminotransferase,cpd00024_c + cpd00041_c <=> cpd00023_c + cpd00032_c,PSPTO_2925,-1000.0,1000.0
-rxn00262_c,L-Aspartic acid:oxygen oxidoreductase (deaminating),cpd00001_c + cpd00007_c + cpd00041_c --> cpd00013_c + cpd00025_c + cpd00032_c,PSPTO_4225,0.0,1000.0
-rxn00283_c,alanine racemase,cpd00035_c <=> cpd00117_c,PSPTO_0103,-1000.0,1000.0
-rxn00289_c,"(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate pyruvate-lyase (succinate-forming)",cpd02799_c <=> cpd00020_c + cpd00036_c,PSPTO_2287,-1000.0,1000.0
-rxn00291_c,N-succinyl-L-glutamate amidohydrolase,cpd00001_c + cpd03525_c <=> cpd00023_c + cpd00036_c,PSPTO_1838,-1000.0,1000.0
-rxn00328_c,4-hydroxy-2-oxoglutarate glyoxylate-lyase (pyruvate-forming),cpd00830_c <=> cpd00020_c + cpd00040_c,PSPTO_1302,-1000.0,1000.0
-rxn00330_c,"acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)",cpd00001_c + cpd00022_c + cpd00040_c --> cpd00010_c + cpd00067_c + cpd00130_c,(PSPTO_0480 or PSPTO_3559),0.0,1000.0
-rxn00337_c,ATP:L-aspartate 4-phosphotransferase,cpd00002_c + cpd00041_c <=> cpd00008_c + cpd01977_c,PSPTO_1843,-1000.0,1000.0
-rxn00338_c,L-aspartate:oxygen oxidoreductase,cpd00007_c + cpd00041_c --> cpd00025_c + cpd00067_c + cpd03470_c,PSPTO_4225,0.0,1000.0
-rxn00344_c,Acetyl-CoA:L-aspartate N-acetyltransferase,cpd00022_c + cpd00041_c <=> cpd00010_c + cpd00067_c + cpd00767_c,PSPTO_0592 and PSPTO_0568,-1000.0,1000.0
-rxn00347_c,L-Aspartate ammonia-lyase,cpd00041_c <=> cpd00013_c + cpd00106_c,PSPTO_5499,-1000.0,1000.0
-rxn00350_c,glutathione gamma-glutamylaminopeptidase,cpd00001_c + cpd00042_c <=> cpd00023_c + cpd01017_c,PSPTO_0787,-1000.0,1000.0
-rxn00351_c,gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming),cpd00002_c + cpd00033_c + cpd00506_c --> cpd00008_c + cpd00009_c + cpd00042_c + cpd00067_c,PSPTO_5035,0.0,1000.0
-rxn00375_c,N-Formyl-L-glutamate amidohydrolase,cpd00001_c + cpd00770_c <=> cpd00023_c + cpd00047_c,PSPTO_5278,-1000.0,1000.0
-rxn00404_c,L-Arginine:glycine amidinotransferase,cpd00033_c + cpd00051_c <=> cpd00064_c + cpd00451_c,PSPTO_0873,-1000.0,1000.0
-rxn00405_c,L-arginine carboxy-lyase (agmatine-forming),cpd00051_c + cpd00067_c --> cpd00011_c + cpd00152_c,PSPTO_4842,0.0,1000.0
-rxn00412_c,UTP:L-glutamine amido-ligase (ADP-forming),cpd00001_c + cpd00002_c + cpd00053_c + cpd00062_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00052_c + 2.0 cpd00067_c,PSPTO_1552,0.0,1000.0
-rxn00414_c,"hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)",cpd00001_c + 2.0 cpd00002_c + cpd00053_c + cpd00242_c --> 2.0 cpd00008_c + cpd00009_c + cpd00023_c + 2.0 cpd00067_c + cpd00146_c,PSPTO_4501 and PSPTO_4502,0.0,1000.0
-rxn00416_c,L-aspartate:L-glutamine amido-ligase (AMP-forming),cpd00001_c + cpd00002_c + cpd00041_c + cpd00053_c --> cpd00012_c + cpd00018_c + cpd00023_c + 2.0 cpd00067_c + cpd00132_c,PSPTO_1633,0.0,1000.0
-rxn00433_c,sarcosine:oxygen oxidoreductase (demethylating),cpd00001_c + cpd00007_c + cpd00183_c --> cpd00025_c + cpd00033_c + cpd00055_c,PSPTO_0460 and PSPTO_0458 or PSPTO_2452 and PSPTO_2450,0.0,1000.0
-rxn00470_c,L-ornithine carboxy-lyase (putrescine-forming),cpd00064_c + cpd00067_c --> cpd00011_c + cpd00118_c,PSPTO_4572,0.0,1000.0
-rxn00472_c,ornithine racemase,cpd00064_c <=> cpd00404_c,PSPTO_0103,-1000.0,1000.0
-rxn00493_c,L-Phenylalanine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00066_c <=> cpd00023_c + cpd00143_c,PSPTO_5339 or PSPTO_2163,-1000.0,1000.0
-rxn00503_c,(S)-1-pyrroline-5-carboxylate:NAD+ oxidoreductase,2.0 cpd00001_c + cpd00003_c + cpd02431_c <=> cpd00004_c + cpd00023_c + cpd00067_c,PSPTO_5017,-1000.0,1000.0
-rxn00527_c,L-tyrosine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00069_c <=> cpd00023_c + cpd00868_c,PSPTO_5339,-1000.0,1000.0
-rxn00555_c,L-glutamine:D-fructose-6-phosphate isomerase (deaminating),cpd00053_c + cpd00072_c <=> cpd00023_c + cpd00288_c,PSPTO_5595,-1000.0,1000.0
-rxn00615_c,ATP:glycerol 3-phosphotransferase,cpd00002_c + cpd00100_c <=> cpd00008_c + cpd00067_c + cpd00080_c,PSPTO_4168,-1000.0,1000.0
-rxn00629_c,D-Mannitol:NAD+ 2-oxidoreductase,cpd00003_c + cpd00314_c <=> cpd00004_c + cpd00067_c + cpd00082_c,PSPTO_2703,-1000.0,1000.0
-rxn00646_c,L-glutamate:L-cysteine gamma-ligase (ADP-forming),cpd00002_c + cpd00023_c + cpd00084_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00506_c,PSPTO_0325,0.0,1000.0
-rxn00656_c,L-Alanine:3-oxopropanoate aminotransferase,cpd00035_c + cpd00191_c <=> cpd00020_c + cpd00085_c,PSPTO_0774,-1000.0,1000.0
-rxn00678_c,(S)-2-Methyl-3-oxopropanoyl-CoA:pyruvate carboxyltransferase,cpd00020_c + cpd00519_c <=> cpd00032_c + cpd00086_c,(PSPTO_5081 and PSPTO_5083 and PSPTO_5084 and PSPTO_5085),-1000.0,1000.0
-rxn00708_c,Uridine 5'-monophosphate phosphohydrolase,cpd00001_c + cpd00091_c --> cpd00009_c + cpd00249_c,(PSPTO_3043 or PSPTO_2277),0.0,1000.0
-rxn00726_c,chorismate pyruvate-lyase (amino-accepting; anthranilate-forming),cpd00013_c + cpd00216_c --> cpd00001_c + cpd00020_c + cpd00067_c + cpd00093_c,((PSPTO_0592 and PSPTO_0568) or PSPTO_2287),0.0,1000.0
-rxn00727_c,Chorismate pyruvate-lyase (amino-accepting),cpd00053_c + cpd00216_c --> cpd00020_c + cpd00023_c + cpd00067_c + cpd00093_c,((PSPTO_0592 and PSPTO_0568) or PSPTO_2287),0.0,1000.0
-rxn00763_c,Glycerol:NAD+ oxidoreductase,cpd00003_c + cpd00100_c <=> cpd00004_c + cpd00067_c + cpd00448_c,PSPTO_1558,-1000.0,1000.0
-rxn00783_c,2-dehydro-3-deoxy-D-galactonate-6-phosphate D-glyceraldehyde-3-phosphate-lyase (pyruvate-forming),cpd00945_c <=> cpd00020_c + cpd00102_c,PSPTO_2178,-1000.0,1000.0
-rxn00790_c,5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating),cpd00001_c + cpd00053_c + cpd00103_c --> cpd00012_c + cpd00023_c + cpd00067_c + cpd01982_c,PSPTO_3811,0.0,1000.0
-rxn00799_c,(S)-malate hydro-lyase (fumarate-forming),cpd00130_c <=> cpd00001_c + cpd00106_c,(PSPTO_4339 or PSPTO_1731 or PSPTO_4461),-1000.0,1000.0
-rxn00802_c,2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming),cpd02152_c <=> cpd00051_c + cpd00106_c,PSPTO_0125,-1000.0,1000.0
-rxn00806_c,L-Leucine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00107_c <=> cpd00023_c + cpd00200_c,PSPTO_1332,-1000.0,1000.0
-rxn00838_c,IMP:L-aspartate ligase (GDP-forming),cpd00038_c + cpd00041_c + cpd00114_c --> cpd00009_c + cpd00031_c + 2.0 cpd00067_c + cpd02375_c,PSPTO_4937,0.0,1000.0
-rxn00851_c,D-alanine:D-alanine ligase (ADP-forming),cpd00002_c + 2.0 cpd00117_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00731_c,PSPTO_4406,0.0,1000.0
-rxn00859_c,L-Histidinol:NAD+ oxidoreductase,cpd00001_c + 2.0 cpd00003_c + cpd00641_c <=> 2.0 cpd00004_c + 3.0 cpd00067_c + cpd00119_c,PSPTO_4438,-1000.0,1000.0
-rxn00866_c,L-histidine carboxy-lyase (histamine-forming),cpd00067_c + cpd00119_c <=> cpd00011_c + cpd00312_c,Unknown,-1000.0,1000.0
-rxn00867_c,L-histidine ammonia-lyase (urocanate-forming),cpd00119_c --> cpd00013_c + cpd00581_c,PSPTO_5274,0.0,1000.0
-rxn00903_c,L-Valine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00156_c <=> cpd00023_c + cpd00123_c,PSPTO_1332,-1000.0,1000.0
-rxn00927_c,Adenosine ribohydrolase,cpd00001_c + cpd00182_c <=> cpd00105_c + cpd00128_c,PSPTO_2373,-1000.0,1000.0
-rxn00929_c,L-Proline:NAD+ 5-oxidoreductase,cpd00003_c + cpd00129_c <=> cpd00004_c + 2.0 cpd00067_c + cpd02431_c,PSPTO_5047,-1000.0,1000.0
-rxn00931_c,L-Proline:NADP+ 5-oxidoreductase,cpd00006_c + cpd00129_c <=> cpd00005_c + 2.0 cpd00067_c + cpd02431_c,PSPTO_5047,-1000.0,1000.0
-rxn00950_c,Cystathionine L-homocysteine-lyase (deaminating),cpd00001_c + cpd00424_c --> cpd00013_c + cpd00020_c + cpd00135_c,(PSPTO_4265 or PSPTO_0701),0.0,1000.0
-rxn00966_c,chorismate pyruvate-lyase (4-hydroxybenzoate-forming),cpd00216_c --> cpd00020_c + cpd00136_c,PSPTO_5475,0.0,1000.0
-rxn00973_c,citrate hydroxymutase,cpd00137_c <=> cpd00260_c,(PSPTO_3752 or PSPTO_2016),-1000.0,1000.0
-rxn00974_c,citrate hydro-lyase (cis-aconitate-forming),cpd00137_c <=> cpd00001_c + cpd00331_c,(PSPTO_3752 or PSPTO_2016),-1000.0,1000.0
-rxn01018_c,carbamoyl-phosphate:L-aspartate carbamoyltransferase,cpd00041_c + cpd00146_c --> cpd00009_c + cpd00067_c + cpd00343_c,PSPTO_5040,0.0,1000.0
-rxn01019_c,Carbamoyl-phosphate:L-ornithine carbamoyltransferase,cpd00064_c + cpd00146_c --> cpd00009_c + cpd00067_c + cpd00274_c,PSPTO_4164,0.0,1000.0
-rxn01100_c,ATP:3-phospho-D-glycerate 1-phosphotransferase,cpd00002_c + cpd00169_c <=> cpd00008_c + cpd00203_c,PSPTO_0387,-1000.0,1000.0
-rxn01106_c,"2-Phospho-D-glycerate 2,3-phosphomutase",cpd00482_c <=> cpd00169_c,PSPTO_5327,-1000.0,1000.0
-rxn01204_c,4-aminobutanoate:2-oxoglutarate aminotransferase,cpd00024_c + cpd00281_c <=> cpd00023_c + cpd00199_c,(PSPTO_0259 or PSPTO_0301),-1000.0,1000.0
-rxn01257_c,chorismate:L-glutamine aminotransferase,cpd00053_c + cpd00216_c <=> cpd00023_c + cpd08210_c,PSPTO_2282,-1000.0,1000.0
-rxn01387_c,Isocitrate:NADP+ oxidoreductase,cpd00006_c + cpd00260_c <=> cpd00005_c + cpd00067_c + cpd03187_c,PSPTO_3356,-1000.0,1000.0
-rxn01388_c,isocitrate hydro-lyase (cis-aconitate-forming),cpd00260_c <=> cpd00001_c + cpd00331_c,(PSPTO_3752 or  (PSPTO_2016 and PSPTO_3752)),-1000.0,1000.0
-rxn01406_c,S-adenosylmethioninamine:putrescine 3-aminopropyltransferase,cpd00118_c + cpd00837_c --> cpd00067_c + cpd00147_c + cpd00264_c,PSPTO_2055,0.0,1000.0
-rxn01434_c,L-Citrulline:L-aspartate ligase (AMP-forming),cpd00002_c + cpd00041_c + cpd00274_c <=> cpd00012_c + cpd00018_c + 2.0 cpd00067_c + cpd02152_c,PSPTO_4155,-1000.0,1000.0
-rxn01456_c,D-galacturonate:NAD+ 1-oxidoreductase,cpd00001_c + cpd00003_c + cpd00280_c <=> cpd00004_c + 2.0 cpd00067_c + cpd00652_c,PSPTO_1053,-1000.0,1000.0
-rxn01492_c,ATP:D-fructose-1-phosphate 6-phosphotransferase,cpd00002_c + cpd00802_c <=> cpd00008_c + cpd00067_c + cpd00290_c,PSPTO_0955,-1000.0,1000.0
-rxn01575_c,L-Isoleucine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00322_c <=> cpd00023_c + cpd00508_c,PSPTO_1332,-1000.0,1000.0
-rxn01603_c,"7,8-dihydropteroate:L-glutamate ligase (ADP-forming)",cpd00002_c + cpd00023_c + cpd00683_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00330_c,PSPTO_3814,0.0,1000.0
-rxn01636_c,N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase,cpd00023_c + cpd00342_c <=> cpd00064_c + cpd00477_c,PSPTO_4399,-1000.0,1000.0
-rxn01637_c,N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00342_c <=> cpd00023_c + cpd00918_c,PSPTO_2618,-1000.0,1000.0
-rxn01639_c,N-Formimino-L-glutamate formiminohydrolase,cpd00023_c + cpd00378_c --> cpd00001_c + cpd00344_c,PSPTO_5728,0.0,1000.0
-rxn01640_c,N-Formimino-L-glutamate iminohydrolase,cpd00001_c + cpd00344_c <=> cpd00013_c + cpd00770_c,PSPTO_5171,-1000.0,1000.0
-rxn01642_c,4-imidazolone-5-propanoate amidohydrolase,cpd00001_c + cpd00067_c + cpd02311_c --> cpd00344_c,PSPTO_5277,0.0,1000.0
-rxn01851_c,4-aminobutanal:NAD+ 1-oxidoreductase,cpd00001_c + cpd00003_c + cpd00434_c --> cpd00004_c + 2.0 cpd00067_c + cpd00281_c,PSPTO_0092,0.0,1000.0
-rxn01917_c,ATP:N-acetyl-L-glutamate 5-phosphotransferase,cpd00002_c + cpd00477_c <=> cpd00008_c + cpd02552_c,PSPTO_0082,-1000.0,1000.0
-rxn02005_c,trehalose transport via PEP:Pyr PTS,cpd00061_c + cpd00794_e <=> cpd00020_c + cpd00523_c,(Unknown and PSPTO_0954 and Unknown and Unknown),-1000.0,1000.0
-rxn02056_c,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase,2.0 cpd00067_c + cpd00557_c <=> cpd03426_c + cpd10515_c,PSPTO_3344,-1000.0,1000.0
-rxn02177_c,Isochorismate pyruvate-hydrolase,cpd00001_c + cpd00658_c --> cpd00020_c + cpd02566_c,(PSPTO_1354 or PSPTO_1356 or PSPTO_1859 or PSPTO_2039 or PSPTO_2981),0.0,1000.0
-rxn02185_c,2-Acetolactate pyruvate-lyase (carboxylating),cpd00056_c + cpd00668_c <=> cpd00020_c + cpd03049_c,(PSPTO_0981 and PSPTO_0982),-1000.0,1000.0
-rxn02229_c,3-Mercaptopyruvate:cyanide sulfurtransferase,cpd00081_c + cpd00706_c <=> cpd00020_c + cpd00268_c,PSPTO_0420,-1000.0,1000.0
-rxn02230_c,3-mercaptopyruvate:cyanide sulfurtransferase,cpd00150_c + cpd00706_c <=> cpd00020_c + cpd00067_c + cpd01211_c,PSPTO_0420,-1000.0,1000.0
-rxn02264_c,Hydroxymethylbilane hydro-lyase(cyclizing),cpd00755_c <=> cpd00001_c + cpd00774_c,PSPTO_0129,-1000.0,1000.0
-rxn02286_c,UDP-N-acetylmuramate:L-alanine ligase (ADP-forming),cpd00002_c + cpd00035_c + cpd00773_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00890_c,PSPTO_4407,0.0,1000.0
-rxn02288_c,Uroporphyrinogen-III carboxy-lyase,4.0 cpd00067_c + cpd00774_c <=> 4.0 cpd00011_c + cpd02083_c,PSPTO_5118,-1000.0,1000.0
-rxn02297_c,6-Carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase (decarboxylating),cpd00035_c + cpd00067_c + cpd00782_c --> cpd00010_c + cpd00011_c + cpd00800_c,PSPTO_0495,0.0,1000.0
-rxn02303_c,Coproporphyrinogen:oxygen oxidoreductase(decarboxylating),cpd00007_c + 2.0 cpd00067_c + cpd02083_c <=> 2.0 cpd00001_c + 2.0 cpd00011_c + cpd00791_c,PSPTO_0170,-1000.0,1000.0
-rxn02373_c,L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating),cpd00005_c + cpd00067_c + cpd02097_c --> cpd00006_c + cpd00009_c + cpd00858_c,PSPTO_4829,0.0,1000.0
-rxn02374_c,R03314,cpd00858_c --> cpd00001_c + cpd00067_c + cpd02431_c,PSPTO_4829,0.0,1000.0
-rxn02774_c,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase,cpd00003_c + cpd01620_c <=> cpd00004_c + 2.0 cpd00067_c + cpd03426_c,PSPTO_3344,-1000.0,1000.0
-rxn02791_c,(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase,cpd00023_c + cpd01651_c <=> cpd00001_c + cpd03407_c,PSPTO_0787,-1000.0,1000.0
-rxn02914_c,3-Phosphoserine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00738_c <=> cpd00023_c + cpd02069_c,PSPTO_1746,-1000.0,1000.0
-rxn02925_c,L-Alanine:3-oxopropanoate aminotransferase,cpd00035_c + cpd00287_c <=> cpd00020_c + cpd02096_c,PSPTO_0774,-1000.0,1000.0
-rxn02944_c,N2-succinyl-L-ornithine:2-oxoglutarate 5-aminotransferase,cpd00024_c + cpd02160_c <=> cpd00023_c + cpd03526_c,PSPTO_1832,-1000.0,1000.0
-rxn03084_c,5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming),cpd00001_c + cpd00002_c + cpd00053_c + cpd02678_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00067_c + cpd02826_c,PSPTO_1459,0.0,1000.0
-rxn03094_c,Glycodeoxycholate amidohydrolase,cpd00001_c + cpd03245_c <=> cpd00033_c + cpd02733_c,PSPTO_0338 or PSPTO_5528 or PSPTO_4945,-1000.0,1000.0
-rxn03135_c,R04558,cpd00053_c + cpd02991_c --> cpd00023_c + 2.0 cpd00067_c + cpd02843_c + cpd02851_c,PSPTO_5335,0.0,1000.0
-rxn03147_c,1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming),cpd00002_c + cpd00041_c + cpd02893_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02921_c,PSPTO_3950,0.0,1000.0
-rxn03384_c,Uroporphyrinogen I carboxy-lyase,4.0 cpd00067_c + cpd03414_c <=> 4.0 cpd00011_c + cpd03416_c,PSPTO_5118,-1000.0,1000.0
-rxn03422_c,N-succinyl-L-glutamate 5-semialdehyde:NAD+ oxidoreductase,cpd00001_c + cpd00003_c + cpd03526_c --> cpd00004_c + 2.0 cpd00067_c + cpd03525_c,PSPTO_1835,0.0,1000.0
-rxn03445_c,O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase,cpd00024_c + cpd03607_c <=> cpd00023_c + cpd03606_c,PSPTO_1746,-1000.0,1000.0
-rxn03540_c,R05225,4.0 cpd00001_c + 4.0 cpd00002_c + 4.0 cpd00053_c + cpd03916_c <=> 4.0 cpd00008_c + 4.0 cpd00009_c + 4.0 cpd00023_c + 4.0 cpd00067_c + cpd03917_c,PSPTO_1713,-1000.0,1000.0
-rxn03841_c,4-amino-4-deoxychorismate pyruvate-lyase,cpd08210_c --> cpd00020_c + cpd00067_c + cpd00443_c,PSPTO_3829,0.0,1000.0
-rxn03884_c,2-dehydro-3-deoxy-D-gluconate-6-phosphate D-glyceraldehyde-3-phosphate-lyase,cpd02711_c <=> cpd00020_c + cpd00102_c,PSPTO_1302,-1000.0,1000.0
-rxn03887_c,galactarate hydro-lyase (5-dehydro-4-deoxy-D-glucarate-forming),cpd00652_c --> cpd00001_c + cpd00515_c,PSPTO_4547,0.0,1000.0
-rxn03909_c,1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating),cpd00020_c + cpd00067_c + cpd00102_c --> cpd00011_c + cpd08289_c,PSPTO_0698,0.0,1000.0
-rxn04068_c,Glycocholate amidohydrolase,cpd00001_c + cpd01318_c <=> cpd00033_c + cpd00526_c,PSPTO_0338 or PSPTO_5528 or PSPTO_4945,-1000.0,1000.0
-rxn04704_c,coproporphyrinogen-III:S-adenosyl-L-methionine oxidoreductase(decarboxylating),2.0 cpd00017_c + cpd02083_c <=> 2.0 cpd00011_c + 2.0 cpd00060_c + cpd00791_c + 2.0 cpd03091_c,PSPTO_1993,-1000.0,1000.0
-rxn04732_c,R06923,cpd00001_c + cpd09798_c <=> cpd00020_c + cpd09799_c,Unknown,-1000.0,1000.0
-rxn05005_c,S-adenosyl-L-methionine:uroporphyrinogen-III C-methyltransferase,cpd00017_c + cpd00774_c <=> cpd00019_c + cpd00067_c + cpd11206_c,PSPTO_2300,-1000.0,1000.0
-rxn05006_c,S-adenosyl-L-methionine:precorrin-1 C-methyltransferase,cpd00017_c + cpd11206_c <=> cpd00019_c + cpd01620_c,PSPTO_3344,-1000.0,1000.0
-rxn05155_c,ATP phosphohydrolase (polar-amino-acid-importing),cpd00001_c + cpd00002_c + cpd00053_e --> cpd00008_c + cpd00009_c + cpd00053_c + cpd00067_c,PSPTO_3009,0.0,1000.0
-rxn05164_c,ATP phosphohydrolase (polar-amino-acid-importing),cpd00001_c + cpd00002_c + cpd00119_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00119_c,((PSPTO_5358 and PSPTO_5359) and (PSPTO_5360 and PSPTO_5357)),0.0,1000.0
-rxn05221_c,Na+/Proline-L symporter,cpd00129_e + cpd00971_e <=> cpd00129_c + cpd00971_c,PSPTO_5016,-1000.0,1000.0
-rxn05226_c,D-glucose transport via PEP:Pyr PTS,cpd00027_e + cpd00061_c <=> cpd00020_c + cpd00079_c,PSPTO_0954,-1000.0,1000.0
-rxn05485_c,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS,cpd00061_c + cpd00122_e <=> cpd00020_c + cpd00293_c,(PSPTO_0954 and Unknown),-1000.0,1000.0
-rxn05557_c,iron (III) dicitrate transport via ABC system,cpd00001_c + cpd00002_c + 2.0 cpd00137_e + cpd10516_e --> cpd00008_c + cpd00009_c + cpd00067_c + 2.0 cpd00137_c + cpd10516_c,PSPTO_1207,0.0,1000.0
-rxn05560_c,D-fructose transport via PEP:Pyr PTS,cpd00061_c + cpd00082_e <=> cpd00020_c + cpd00802_c,(PSPTO_0954 and PSPTO_0956),-1000.0,1000.0
-rxn05564_c,Proline-specific permease,cpd00067_e + cpd00281_e <=> cpd00067_c + cpd00281_c,PSPTO_5356,-1000.0,1000.0
-rxn05574_c,"D-glucuronate transport via proton symport, reversible",cpd00067_e + cpd00164_e <=> cpd00067_c + cpd00164_c,PSPTO_2345,-1000.0,1000.0
-rxn05581_c,RXN0-1683.ce.maizeexp.GLYCEROL_GLYCEROL,cpd00100_c <=> cpd00100_e,PSPTO_4167,-1000.0,1000.0
-rxn05605_c,Maltose permease MAL31,cpd00067_e + cpd00130_e <=> cpd00067_c + cpd00130_c,(PSPTO_4063 or PSPTO_1682),-1000.0,1000.0
-rxn05607_c,maltose transport via PEP:Pyr PTS,cpd00061_c + cpd00179_e <=> cpd00020_c + cpd01919_c,PSPTO_0890,-1000.0,1000.0
-rxn05610_c,D-mannose transport via PEP:Pyr PTS,cpd00061_c + cpd00138_e <=> cpd00020_c + cpd00235_c,(Unknown and Unknown and PSPTO_0954 and Unknown and Unknown),-1000.0,1000.0
-rxn05617_c,mannitol transport via PEP:Pyr PTS,cpd00061_c + cpd00314_e <=> cpd00020_c + cpd00491_c,(Unknown and PSPTO_0954 and Unknown and Unknown and Unknown),-1000.0,1000.0
-rxn05655_c,sucrose transport via PEP:Pyr PTS,cpd00061_c + cpd00076_e <=> cpd00020_c + cpd01693_c,PSPTO_0890,-1000.0,1000.0
-rxn07449_c,3-sulfolactate bisulfite-lyase,cpd14790_c <=> cpd00020_c + cpd00081_c,PSPTO_4547,-1000.0,1000.0
-rxn08669_c,Glycerophosphodiester phosphodiesterase,cpd00001_c + cpd02090_c --> cpd00067_c + cpd00080_c + cpd00100_c,PSPTO_3461,0.0,1000.0
-rxn08901_c,Malate dehydrogenase (menaquinone 8 as acceptor),cpd00130_c + cpd15500_c --> cpd00032_c + cpd15499_c,PSPTO_1136,0.0,1000.0
-rxn08900_c,FAD-dependent malate dehydrogenase,cpd00130_c + cpd15560_c --> cpd00032_c + cpd15561_c,PSPTO_1136,0.0,1000.0
-rxn10626_c,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase",cpd00199_c + cpd00658_c <=> cpd00020_c + cpd03451_c,PSPTO_2595,-1000.0,1000.0
+rxn00020_c,cellobiose glucohydrolase,cpd00001_c + cpd00158_c --> 2.0 cpd00190_c,PSPTO_4290,0,1000
+rxn00025_c,"beta-Carotene:oxygen 15,15'-oxidoreductase (bond-cleaving)",cpd00007_c + cpd01420_c <=> 2.0 cpd00304_c,PSPTO_4235,-1000,1000
+rxn00029_c,5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing; porphobilinogen-forming),2.0 cpd00338_c --> 2.0 cpd00001_c + cpd00067_c + cpd00689_c,PSPTO_5251,0,1000
+rxn00048_c,"6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase",cpd00067_c + 2.0 cpd02656_c --> cpd00220_c + cpd02882_c,PSPTO_0691,0,1000
+rxn00060_c,porphobilinogen:(4-[2-carboxyethyl]-3-[carboxymethyl]pyrrol-2-yl)methyltransferase (hydrolysing),cpd00001_c + 4.0 cpd00689_c --> 4.0 cpd00013_c + cpd00755_c,PSPTO_0128,0,1000
+rxn00147_c,"ATP:pyruvate,water phosphotransferase",cpd00001_c + cpd00002_c + cpd00020_c --> cpd00009_c + cpd00018_c + cpd00061_c + 3.0 cpd00067_c,PSPTO_2292,0,1000
+rxn00148_c,ATP:pyruvate 2-O-phosphotransferase,cpd00002_c + cpd00020_c <=> cpd00008_c + cpd00061_c + cpd00067_c,PSPTO_4337,-1000,1000
+rxn00149_c,pyruvaldehyde:NAD+ oxidoreductase,cpd00001_c + cpd00003_c + cpd00428_c <=> cpd00004_c + cpd00020_c + 2.0 cpd00067_c,PSPTO_2680,-1000,1000
+rxn00159_c,(S)-malate:NAD+ oxidoreductase (decarboxylating),cpd00003_c + cpd00130_c --> cpd00004_c + cpd00011_c + cpd00020_c,PSPTO_3924,0,1000
+rxn00161_c,(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating),cpd00006_c + cpd00130_c --> cpd00005_c + cpd00011_c + cpd00020_c,PSPTO_5134,0,1000
+rxn00165_c,L-serine ammonia-lyase,cpd00054_c --> cpd00013_c + cpd00020_c,(PSPTO_1886 and PSPTO_1886),0,1000
+rxn00179_c,ATP:L-glutamate 5-phosphotransferase,cpd00002_c + cpd00023_c <=> cpd00008_c + cpd02097_c,PSPTO_0800,-1000,1000
+rxn00182_c,L-glutamate:NAD+ oxidoreductase (deaminating),cpd00001_c + cpd00003_c + cpd00023_c <=> cpd00004_c + cpd00013_c + cpd00024_c + cpd00067_c,PSPTO_3757,-1000,1000
+rxn00183_c,L-Glutamate 5-semialdehyde:NAD+ oxidoreductase,cpd00001_c + cpd00003_c + cpd00858_c --> cpd00004_c + cpd00023_c + 2.0 cpd00067_c,(PSPTO_1881 or PSPTO_3644),0,1000
+rxn00187_c,L-Glutamate:ammonia ligase (ADP-forming),cpd00002_c + cpd00013_c + cpd00023_c --> cpd00008_c + cpd00009_c + cpd00053_c + cpd00067_c,PSPTO_0359,0,1000
+rxn00189_c,L-Glutamine amidohydrolase,cpd00001_c + cpd00053_c --> cpd00013_c + cpd00023_c,PSPTO_2488,0,1000
+rxn00192_c,acetyl-CoA:L-glutamate N-acetyltransferase,cpd00022_c + cpd00023_c --> cpd00010_c + cpd00067_c + cpd00477_c,PSTPO_0324,0,1000
+rxn00193_c,glutamate racemase,cpd00023_c <=> cpd00186_c,PSPTO_1112,-1000,1000
+rxn00224_c,protoheme ferro-lyase (protoporphyrin-forming),cpd01476_c + cpd10515_c <=> cpd00028_c + 2.0 cpd00067_c,PSPTO_1128,-1000,1000
+rxn00256_c,acetyl-CoA:oxaloacetate C-acetyltransferase (thioester-hydrolysing),cpd00001_c + cpd00022_c + cpd00032_c --> cpd00010_c + cpd00067_c + cpd00137_c,PSPTO_2194,0,1000
+rxn00260_c,L-Aspartate:2-oxoglutarate aminotransferase,cpd00024_c + cpd00041_c <=> cpd00023_c + cpd00032_c,PSPTO_2925,-1000,1000
+rxn00262_c,L-Aspartic acid:oxygen oxidoreductase (deaminating),cpd00001_c + cpd00007_c + cpd00041_c --> cpd00013_c + cpd00025_c + cpd00032_c,PSPTO_4225,0,1000
+rxn00283_c,alanine racemase,cpd00035_c <=> cpd00117_c,PSPTO_0103,-1000,1000
+rxn00289_c,"(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate pyruvate-lyase (succinate-forming)",cpd02799_c <=> cpd00020_c + cpd00036_c,PSPTO_2287,-1000,1000
+rxn00291_c,N-succinyl-L-glutamate amidohydrolase,cpd00001_c + cpd03525_c <=> cpd00023_c + cpd00036_c,PSPTO_1838,-1000,1000
+rxn00328_c,4-hydroxy-2-oxoglutarate glyoxylate-lyase (pyruvate-forming),cpd00830_c <=> cpd00020_c + cpd00040_c,PSPTO_1302,-1000,1000
+rxn00330_c,"acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)",cpd00001_c + cpd00022_c + cpd00040_c <=> cpd00010_c + cpd00067_c + cpd00130_c,(PSPTO_0480 or PSPTO_3559),-1000,1000
+rxn00337_c,ATP:L-aspartate 4-phosphotransferase,cpd00002_c + cpd00041_c <=> cpd00008_c + cpd01977_c,PSPTO_1843,-1000,1000
+rxn00338_c,L-aspartate:oxygen oxidoreductase,cpd00007_c + cpd00041_c --> cpd00025_c + cpd00067_c + cpd03470_c,PSPTO_4225,0,1000
+rxn00344_c,Acetyl-CoA:L-aspartate N-acetyltransferase,cpd00022_c + cpd00041_c --> cpd00010_c + cpd00067_c + cpd00767_c,PSPTO_0592 and PSPTO_0568,0,1000
+rxn00347_c,L-Aspartate ammonia-lyase,cpd00041_c <=> cpd00013_c + cpd00106_c,PSPTO_5499,-1000,1000
+rxn00350_c,glutathione gamma-glutamylaminopeptidase,cpd00001_c + cpd00042_c <=> cpd00023_c + cpd01017_c,PSPTO_0787,-1000,1000
+rxn00351_c,gamma-L-glutamyl-L-cysteine:glycine ligase (ADP-forming),cpd00002_c + cpd00033_c + cpd00506_c --> cpd00008_c + cpd00009_c + cpd00042_c + cpd00067_c,PSPTO_5035,0,1000
+rxn00375_c,N-Formyl-L-glutamate amidohydrolase,cpd00001_c + cpd00770_c <=> cpd00023_c + cpd00047_c,PSPTO_5278,-1000,1000
+rxn00404_c,L-Arginine:glycine amidinotransferase,cpd00033_c + cpd00051_c <=> cpd00064_c + cpd00451_c,PSPTO_0873,-1000,1000
+rxn00405_c,L-arginine carboxy-lyase (agmatine-forming),cpd00051_c + cpd00067_c --> cpd00011_c + cpd00152_c,PSPTO_4842,0,1000
+rxn00412_c,UTP:L-glutamine amido-ligase (ADP-forming),cpd00001_c + cpd00002_c + cpd00053_c + cpd00062_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00052_c + 2.0 cpd00067_c,PSPTO_1552,0,1000
+rxn00414_c,"hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)",cpd00001_c + 2.0 cpd00002_c + cpd00053_c + cpd00242_c --> 2.0 cpd00008_c + cpd00009_c + cpd00023_c + 2.0 cpd00067_c + cpd00146_c,PSPTO_4501 and PSPTO_4502,0,1000
+rxn00416_c,L-aspartate:L-glutamine amido-ligase (AMP-forming),cpd00001_c + cpd00002_c + cpd00041_c + cpd00053_c <=> cpd00012_c + cpd00018_c + cpd00023_c + 2.0 cpd00067_c + cpd00132_c,PSPTO_1633,-1000,1000
+rxn00433_c,sarcosine:oxygen oxidoreductase (demethylating),cpd00001_c + cpd00007_c + cpd00183_c --> cpd00025_c + cpd00033_c + cpd00055_c,PSPTO_0460 and PSPTO_0458 or PSPTO_2452 and PSPTO_2450,0,1000
+rxn00470_c,L-ornithine carboxy-lyase (putrescine-forming),cpd00064_c + cpd00067_c --> cpd00011_c + cpd00118_c,PSPTO_4572,0,1000
+rxn00472_c,ornithine racemase,cpd00064_c <=> cpd00404_c,PSPTO_0103,-1000,1000
+rxn00493_c,L-Phenylalanine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00066_c <=> cpd00023_c + cpd00143_c,PSPTO_5339 or PSPTO_2163,-1000,1000
+rxn00503_c,(S)-1-pyrroline-5-carboxylate:NAD+ oxidoreductase,2.0 cpd00001_c + cpd00003_c + cpd02431_c <=> cpd00004_c + cpd00023_c + cpd00067_c,PSPTO_5017,-1000,1000
+rxn00527_c,L-tyrosine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00069_c <=> cpd00023_c + cpd00868_c,PSPTO_5339,-1000,1000
+rxn00555_c,L-glutamine:D-fructose-6-phosphate isomerase (deaminating),cpd00053_c + cpd00072_c <=> cpd00023_c + cpd00288_c,PSPTO_5595,-1000,1000
+rxn00615_c,ATP:glycerol 3-phosphotransferase,cpd00002_c + cpd00100_c <=> cpd00008_c + cpd00067_c + cpd00080_c,PSPTO_4168,-1000,1000
+rxn00629_c,D-Mannitol:NAD+ 2-oxidoreductase,cpd00003_c + cpd00314_c <=> cpd00004_c + cpd00067_c + cpd00082_c,PSPTO_2703,-1000,1000
+rxn00646_c,L-glutamate:L-cysteine gamma-ligase (ADP-forming),cpd00002_c + cpd00023_c + cpd00084_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00506_c,PSPTO_0325,0,1000
+rxn00656_c,L-Alanine:3-oxopropanoate aminotransferase,cpd00035_c + cpd00191_c <=> cpd00020_c + cpd00085_c,PSPTO_0774,-1000,1000
+rxn00678_c,(S)-2-Methyl-3-oxopropanoyl-CoA:pyruvate carboxyltransferase,cpd00020_c + cpd00519_c <=> cpd00032_c + cpd00086_c,(PSPTO_5081 and PSPTO_5083 and PSPTO_5084 and PSPTO_5085),-1000,1000
+rxn00708_c,Uridine 5'-monophosphate phosphohydrolase,cpd00001_c + cpd00091_c --> cpd00009_c + cpd00249_c,(PSPTO_3043 or PSPTO_2277),0,1000
+rxn00726_c,chorismate pyruvate-lyase (amino-accepting; anthranilate-forming),cpd00013_c + cpd00216_c --> cpd00001_c + cpd00020_c + cpd00067_c + cpd00093_c,((PSPTO_0592 and PSPTO_0568) or PSPTO_2287),0,1000
+rxn00727_c,Chorismate pyruvate-lyase (amino-accepting),cpd00053_c + cpd00216_c --> cpd00020_c + cpd00023_c + cpd00067_c + cpd00093_c,((PSPTO_0592 and PSPTO_0568) or PSPTO_2287),0,1000
+rxn00763_c,Glycerol:NAD+ oxidoreductase,cpd00003_c + cpd00100_c <=> cpd00004_c + cpd00067_c + cpd00448_c,PSPTO_1558,-1000,1000
+rxn00783_c,2-dehydro-3-deoxy-D-galactonate-6-phosphate D-glyceraldehyde-3-phosphate-lyase (pyruvate-forming),cpd00945_c <=> cpd00020_c + cpd00102_c,PSPTO_2178,-1000,1000
+rxn00790_c,5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating),cpd00001_c + cpd00053_c + cpd00103_c --> cpd00012_c + cpd00023_c + cpd00067_c + cpd01982_c,PSPTO_3811,0,1000
+rxn00799_c,(S)-malate hydro-lyase (fumarate-forming),cpd00130_c <=> cpd00001_c + cpd00106_c,(PSPTO_4339 or PSPTO_1731 or PSPTO_4461),-1000,1000
+rxn00802_c,2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming),cpd02152_c <=> cpd00051_c + cpd00106_c,PSPTO_0125,-1000,1000
+rxn00806_c,L-Leucine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00107_c <=> cpd00023_c + cpd00200_c,PSPTO_1332,-1000,1000
+rxn00838_c,IMP:L-aspartate ligase (GDP-forming),cpd00038_c + cpd00041_c + cpd00114_c --> cpd00009_c + cpd00031_c + 2.0 cpd00067_c + cpd02375_c,PSPTO_4937,0,1000
+rxn00851_c,D-alanine:D-alanine ligase (ADP-forming),cpd00002_c + 2.0 cpd00117_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00731_c,PSPTO_4406,0,1000
+rxn00859_c,L-Histidinol:NAD+ oxidoreductase,cpd00001_c + 2.0 cpd00003_c + cpd00641_c <=> 2.0 cpd00004_c + 3.0 cpd00067_c + cpd00119_c,PSPTO_4438,-1000,1000
+rxn00866_c,L-histidine carboxy-lyase (histamine-forming),cpd00067_c + cpd00119_c <=> cpd00011_c + cpd00312_c,Unknown,-1000,1000
+rxn00867_c,L-histidine ammonia-lyase (urocanate-forming),cpd00119_c --> cpd00013_c + cpd00581_c,PSPTO_5274,0,1000
+rxn00903_c,L-Valine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00156_c <=> cpd00023_c + cpd00123_c,PSPTO_1332,-1000,1000
+rxn00927_c,Adenosine ribohydrolase,cpd00001_c + cpd00182_c <=> cpd00105_c + cpd00128_c,PSPTO_2373,-1000,1000
+rxn00929_c,L-Proline:NAD+ 5-oxidoreductase,cpd00003_c + cpd00129_c <=> cpd00004_c + 2.0 cpd00067_c + cpd02431_c,PSPTO_5047,-1000,1000
+rxn00931_c,L-Proline:NADP+ 5-oxidoreductase,cpd00006_c + cpd00129_c <=> cpd00005_c + 2.0 cpd00067_c + cpd02431_c,PSPTO_5047,-1000,1000
+rxn00950_c,Cystathionine L-homocysteine-lyase (deaminating),cpd00001_c + cpd00424_c --> cpd00013_c + cpd00020_c + cpd00135_c,(PSPTO_4265 or PSPTO_0701),0,1000
+rxn00966_c,chorismate pyruvate-lyase (4-hydroxybenzoate-forming),cpd00216_c --> cpd00020_c + cpd00136_c,PSPTO_5475,0,1000
+rxn00973_c,citrate hydroxymutase,cpd00137_c <=> cpd00260_c,(PSPTO_3752 or PSPTO_2016),-1000,1000
+rxn00974_c,citrate hydro-lyase (cis-aconitate-forming),cpd00137_c <=> cpd00001_c + cpd00331_c,(PSPTO_3752 or PSPTO_2016),-1000,1000
+rxn01018_c,carbamoyl-phosphate:L-aspartate carbamoyltransferase,cpd00041_c + cpd00146_c --> cpd00009_c + cpd00067_c + cpd00343_c,PSPTO_5040,0,1000
+rxn01019_c,Carbamoyl-phosphate:L-ornithine carbamoyltransferase,cpd00064_c + cpd00146_c <=> cpd00009_c + cpd00067_c + cpd00274_c,PSPTO_4164,-1000,1000
+rxn01100_c,ATP:3-phospho-D-glycerate 1-phosphotransferase,cpd00002_c + cpd00169_c <=> cpd00008_c + cpd00203_c,PSPTO_0387,-1000,1000
+rxn01106_c,"2-Phospho-D-glycerate 2,3-phosphomutase",cpd00482_c <=> cpd00169_c,PSPTO_5327,-1000,1000
+rxn01204_c,4-aminobutanoate:2-oxoglutarate aminotransferase,cpd00024_c + cpd00281_c <=> cpd00023_c + cpd00199_c,(PSPTO_0259 or PSPTO_0301),-1000,1000
+rxn01257_c,chorismate:L-glutamine aminotransferase,cpd00053_c + cpd00216_c <=> cpd00023_c + cpd08210_c,PSPTO_2282,-1000,1000
+rxn01387_c,Isocitrate:NADP+ oxidoreductase,cpd00006_c + cpd00260_c <=> cpd00005_c + cpd00067_c + cpd03187_c,PSPTO_3356,-1000,1000
+rxn01388_c,isocitrate hydro-lyase (cis-aconitate-forming),cpd00260_c <=> cpd00001_c + cpd00331_c,(PSPTO_3752 or  (PSPTO_2016 and PSPTO_3752)),-1000,1000
+rxn01406_c,S-adenosylmethioninamine:putrescine 3-aminopropyltransferase,cpd00118_c + cpd00837_c --> cpd00067_c + cpd00147_c + cpd00264_c,PSPTO_2055,0,1000
+rxn01434_c,L-Citrulline:L-aspartate ligase (AMP-forming),cpd00002_c + cpd00041_c + cpd00274_c <=> cpd00012_c + cpd00018_c + 2.0 cpd00067_c + cpd02152_c,PSPTO_4155,-1000,1000
+rxn01456_c,D-galacturonate:NAD+ 1-oxidoreductase,cpd00001_c + cpd00003_c + cpd00280_c --> cpd00004_c + 2.0 cpd00067_c + cpd00652_c,PSPTO_1053,0,1000
+rxn01492_c,ATP:D-fructose-1-phosphate 6-phosphotransferase,cpd00002_c + cpd00802_c <=> cpd00008_c + cpd00067_c + cpd00290_c,PSPTO_0955,-1000,1000
+rxn01575_c,L-Isoleucine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00322_c <=> cpd00023_c + cpd00508_c,PSPTO_1332,-1000,1000
+rxn01603_c,"7,8-dihydropteroate:L-glutamate ligase (ADP-forming)",cpd00002_c + cpd00023_c + cpd00683_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00330_c,PSPTO_3814,0,1000
+rxn01636_c,N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase,cpd00023_c + cpd00342_c <=> cpd00064_c + cpd00477_c,PSPTO_4399,-1000,1000
+rxn01637_c,N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00342_c <=> cpd00023_c + cpd00918_c,PSPTO_2618,-1000,1000
+rxn01639_c,N-Formimino-L-glutamate formiminohydrolase,cpd00023_c + cpd00378_c --> cpd00001_c + cpd00344_c,PSPTO_5728,0,1000
+rxn01640_c,N-Formimino-L-glutamate iminohydrolase,cpd00001_c + cpd00344_c <=> cpd00013_c + cpd00770_c,PSPTO_5171,-1000,1000
+rxn01642_c,4-imidazolone-5-propanoate amidohydrolase,cpd00001_c + cpd00067_c + cpd02311_c --> cpd00344_c,PSPTO_5277,0,1000
+rxn01851_c,4-aminobutanal:NAD+ 1-oxidoreductase,cpd00001_c + cpd00003_c + cpd00434_c --> cpd00004_c + 2.0 cpd00067_c + cpd00281_c,PSPTO_0092,0,1000
+rxn01917_c,ATP:N-acetyl-L-glutamate 5-phosphotransferase,cpd00002_c + cpd00477_c <=> cpd00008_c + cpd02552_c,PSPTO_0082,-1000,1000
+rxn02005_c,trehalose transport via PEP:Pyr PTS,cpd00061_c + cpd00794_e <=> cpd00020_c + cpd00523_c,(Unknown and PSPTO_0954 and Unknown and Unknown),-1000,1000
+rxn02056_c,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase,2.0 cpd00067_c + cpd00557_c --> cpd03426_c + cpd10515_c,PSPTO_3344,0,1000
+rxn02177_c,Isochorismate pyruvate-hydrolase,cpd00001_c + cpd00658_c --> cpd00020_c + cpd02566_c,(PSPTO_1354 or PSPTO_1356 or PSPTO_1859 or PSPTO_2039 or PSPTO_2981),0,1000
+rxn02185_c,2-Acetolactate pyruvate-lyase (carboxylating),cpd00056_c + cpd00668_c <=> cpd00020_c + cpd03049_c,(PSPTO_0981 and PSPTO_0982),-1000,1000
+rxn02229_c,3-Mercaptopyruvate:cyanide sulfurtransferase,cpd00081_c + cpd00706_c <=> cpd00020_c + cpd00268_c,PSPTO_0420,-1000,1000
+rxn02230_c,3-mercaptopyruvate:cyanide sulfurtransferase,cpd00150_c + cpd00706_c <=> cpd00020_c + cpd00067_c + cpd01211_c,PSPTO_0420,-1000,1000
+rxn02264_c,Hydroxymethylbilane hydro-lyase(cyclizing),cpd00755_c <=> cpd00001_c + cpd00774_c,PSPTO_0129,-1000,1000
+rxn02286_c,UDP-N-acetylmuramate:L-alanine ligase (ADP-forming),cpd00002_c + cpd00035_c + cpd00773_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00890_c,PSPTO_4407,0,1000
+rxn02288_c,Uroporphyrinogen-III carboxy-lyase,4.0 cpd00067_c + cpd00774_c <=> 4.0 cpd00011_c + cpd02083_c,PSPTO_5118,-1000,1000
+rxn02297_c,6-Carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase (decarboxylating),cpd00035_c + cpd00067_c + cpd00782_c --> cpd00010_c + cpd00011_c + cpd00800_c,PSPTO_0495,0,1000
+rxn02303_c,Coproporphyrinogen:oxygen oxidoreductase(decarboxylating),cpd00007_c + 2.0 cpd00067_c + cpd02083_c <=> 2.0 cpd00001_c + 2.0 cpd00011_c + cpd00791_c,PSPTO_0170,-1000,1000
+rxn02373_c,L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating),cpd00005_c + cpd00067_c + cpd02097_c <=> cpd00006_c + cpd00009_c + cpd00858_c,PSPTO_4829,-1000,1000
+rxn02374_c,R03314,cpd00858_c <=> cpd00001_c + cpd00067_c + cpd02431_c,PSPTO_4829,-1000,1000
+rxn02774_c,S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase,cpd00003_c + cpd01620_c --> cpd00004_c + 2.0 cpd00067_c + cpd03426_c,PSPTO_3344,0,1000
+rxn02791_c,(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase,cpd00023_c + cpd01651_c <=> cpd00001_c + cpd03407_c,PSPTO_0787,-1000,1000
+rxn02914_c,3-Phosphoserine:2-oxoglutarate aminotransferase,cpd00024_c + cpd00738_c <=> cpd00023_c + cpd02069_c,PSPTO_1746,-1000,1000
+rxn02925_c,L-Alanine:3-oxopropanoate aminotransferase,cpd00035_c + cpd00287_c <=> cpd00020_c + cpd02096_c,PSPTO_0774,-1000,1000
+rxn02944_c,N2-succinyl-L-ornithine:2-oxoglutarate 5-aminotransferase,cpd00024_c + cpd02160_c <=> cpd00023_c + cpd03526_c,PSPTO_1832,-1000,1000
+rxn03084_c,5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming),cpd00001_c + cpd00002_c + cpd00053_c + cpd02678_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00067_c + cpd02826_c,PSPTO_1459,0,1000
+rxn03094_c,Glycodeoxycholate amidohydrolase,cpd00001_c + cpd03245_c <=> cpd00033_c + cpd02733_c,PSPTO_0338 or PSPTO_5528 or PSPTO_4945,-1000,1000
+rxn03135_c,R04558,cpd00053_c + cpd02991_c --> cpd00023_c + 2.0 cpd00067_c + cpd02843_c + cpd02851_c,PSPTO_5335,0,1000
+rxn03147_c,1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming),cpd00002_c + cpd00041_c + cpd02893_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02921_c,PSPTO_3950,0,1000
+rxn03384_c,Uroporphyrinogen I carboxy-lyase,4.0 cpd00067_c + cpd03414_c <=> 4.0 cpd00011_c + cpd03416_c,PSPTO_5118,-1000,1000
+rxn03422_c,N-succinyl-L-glutamate 5-semialdehyde:NAD+ oxidoreductase,cpd00001_c + cpd00003_c + cpd03526_c --> cpd00004_c + 2.0 cpd00067_c + cpd03525_c,PSPTO_1835,0,1000
+rxn03445_c,O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase,cpd00024_c + cpd03607_c <=> cpd00023_c + cpd03606_c,PSPTO_1746,-1000,1000
+rxn03540_c,R05225,4.0 cpd00001_c + 4.0 cpd00002_c + 4.0 cpd00053_c + cpd03916_c --> 4.0 cpd00008_c + 4.0 cpd00009_c + 4.0 cpd00023_c + 4.0 cpd00067_c + cpd03917_c,PSPTO_1713,0,1000
+rxn03841_c,4-amino-4-deoxychorismate pyruvate-lyase,cpd08210_c --> cpd00020_c + cpd00067_c + cpd00443_c,PSPTO_3829,0,1000
+rxn03884_c,2-dehydro-3-deoxy-D-gluconate-6-phosphate D-glyceraldehyde-3-phosphate-lyase,cpd02711_c <=> cpd00020_c + cpd00102_c,PSPTO_1302,-1000,1000
+rxn03887_c,galactarate hydro-lyase (5-dehydro-4-deoxy-D-glucarate-forming),cpd00652_c --> cpd00001_c + cpd00515_c,PSPTO_4547,0,1000
+rxn03909_c,1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating),cpd00020_c + cpd00067_c + cpd00102_c --> cpd00011_c + cpd08289_c,PSPTO_0698,0,1000
+rxn04068_c,Glycocholate amidohydrolase,cpd00001_c + cpd01318_c <=> cpd00033_c + cpd00526_c,PSPTO_0338 or PSPTO_5528 or PSPTO_4945,-1000,1000
+rxn04704_c,coproporphyrinogen-III:S-adenosyl-L-methionine oxidoreductase(decarboxylating),2.0 cpd00017_c + cpd02083_c <=> 2.0 cpd00011_c + 2.0 cpd00060_c + cpd00791_c + 2.0 cpd03091_c,PSPTO_1993,-1000,1000
+rxn04732_c,R06923,cpd00001_c + cpd09798_c <=> cpd00020_c + cpd09799_c,Unknown,-1000,1000
+rxn05005_c,S-adenosyl-L-methionine:uroporphyrinogen-III C-methyltransferase,cpd00017_c + cpd00774_c <=> cpd00019_c + cpd00067_c + cpd11206_c,PSPTO_2300,-1000,1000
+rxn05006_c,S-adenosyl-L-methionine:precorrin-1 C-methyltransferase,cpd00017_c + cpd11206_c <=> cpd00019_c + cpd01620_c,PSPTO_3344,-1000,1000
+rxn05155_c,ATP phosphohydrolase (polar-amino-acid-importing),cpd00001_c + cpd00002_c + cpd00053_e --> cpd00008_c + cpd00009_c + cpd00053_c + cpd00067_c,PSPTO_3009,0,1000
+rxn05164_c,ATP phosphohydrolase (polar-amino-acid-importing),cpd00001_c + cpd00002_c + cpd00119_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00119_c,((PSPTO_5358 and PSPTO_5359) and (PSPTO_5360 and PSPTO_5357)),0,1000
+rxn05221_c,Na+/Proline-L symporter,cpd00129_e + cpd00971_e <=> cpd00129_c + cpd00971_c,PSPTO_5016,-1000,1000
+rxn05226_c,D-glucose transport via PEP:Pyr PTS,cpd00027_e + cpd00061_c <=> cpd00020_c + cpd00079_c,PSPTO_0954,-1000,1000
+rxn05485_c,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS,cpd00061_c + cpd00122_e <=> cpd00020_c + cpd00293_c,(PSPTO_0954 and Unknown),-1000,1000
+rxn05557_c,iron (III) dicitrate transport via ABC system,cpd00001_c + cpd00002_c + 2.0 cpd00137_e + cpd10516_e --> cpd00008_c + cpd00009_c + cpd00067_c + 2.0 cpd00137_c + cpd10516_c,PSPTO_1207,0,1000
+rxn05560_c,D-fructose transport via PEP:Pyr PTS,cpd00061_c + cpd00082_e <=> cpd00020_c + cpd00802_c,(PSPTO_0954 and PSPTO_0956),-1000,1000
+rxn05564_c,Proline-specific permease,cpd00067_e + cpd00281_e <=> cpd00067_c + cpd00281_c,PSPTO_5356,-1000,1000
+rxn05574_c,"D-glucuronate transport via proton symport, reversible",cpd00067_e + cpd00164_e <=> cpd00067_c + cpd00164_c,PSPTO_2345,-1000,1000
+rxn05581_c,RXN0-1683.ce.maizeexp.GLYCEROL_GLYCEROL,cpd00100_c <=> cpd00100_e,PSPTO_4167,-1000,1000
+rxn05605_c,Maltose permease MAL31,cpd00067_e + cpd00130_e <=> cpd00067_c + cpd00130_c,(PSPTO_4063 or PSPTO_1682),-1000,1000
+rxn05607_c,maltose transport via PEP:Pyr PTS,cpd00061_c + cpd00179_e <=> cpd00020_c + cpd01919_c,PSPTO_0890,-1000,1000
+rxn05610_c,D-mannose transport via PEP:Pyr PTS,cpd00061_c + cpd00138_e <=> cpd00020_c + cpd00235_c,(Unknown and Unknown and PSPTO_0954 and Unknown and Unknown),-1000,1000
+rxn05617_c,mannitol transport via PEP:Pyr PTS,cpd00061_c + cpd00314_e <=> cpd00020_c + cpd00491_c,(Unknown and PSPTO_0954 and Unknown and Unknown and Unknown),-1000,1000
+rxn05655_c,sucrose transport via PEP:Pyr PTS,cpd00061_c + cpd00076_e <=> cpd00020_c + cpd01693_c,PSPTO_0890,-1000,1000
+rxn07449_c,3-sulfolactate bisulfite-lyase,cpd14790_c <=> cpd00020_c + cpd00081_c,PSPTO_4547,-1000,1000
+rxn08669_c,Glycerophosphodiester phosphodiesterase,cpd00001_c + cpd02090_c --> cpd00067_c + cpd00080_c + cpd00100_c,PSPTO_3461,0,1000
+rxn08901_c,Malate dehydrogenase (menaquinone 8 as acceptor),cpd00130_c + cpd15500_c --> cpd00032_c + cpd15499_c,PSPTO_1136,0,1000
+rxn08900_c,FAD-dependent malate dehydrogenase,cpd00130_c + cpd15560_c --> cpd00032_c + cpd15561_c,PSPTO_1136,0,1000
+rxn10626_c,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase",cpd00199_c + cpd00658_c --> cpd00020_c + cpd03451_c,PSPTO_2595,0,1000
